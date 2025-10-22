@@ -1,7 +1,4 @@
 /ip firewall address-list
-add list=t-pot_blacklist comment=t-pot address=10.184.5.254
-add list=t-pot_blacklist comment=t-pot address=10.184.5.7
-add list=t-pot_blacklist comment=t-pot address=10.184.5.90
 add list=t-pot_blacklist comment=t-pot address=101.43.142.81
 add list=t-pot_blacklist comment=t-pot address=103.168.22.235
 add list=t-pot_blacklist comment=t-pot address=103.203.57.21
