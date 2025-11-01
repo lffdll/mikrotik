@@ -13,6 +13,7 @@ add list=t-pot_blacklist comment=t-pot address=103.172.237.182
 add list=t-pot_blacklist comment=t-pot address=103.199.205.176
 add list=t-pot_blacklist comment=t-pot address=103.203.57.11
 add list=t-pot_blacklist comment=t-pot address=103.203.57.21
+add list=t-pot_blacklist comment=t-pot address=103.248.120.6
 add list=t-pot_blacklist comment=t-pot address=104.131.116.131
 add list=t-pot_blacklist comment=t-pot address=104.16.101.215
 add list=t-pot_blacklist comment=t-pot address=104.16.97.215
@@ -47,6 +48,7 @@ add list=t-pot_blacklist comment=t-pot address=120.240.236.178
 add list=t-pot_blacklist comment=t-pot address=120.57.132.239
 add list=t-pot_blacklist comment=t-pot address=121.235.145.30
 add list=t-pot_blacklist comment=t-pot address=123.179.92.147
+add list=t-pot_blacklist comment=t-pot address=123.59.28.66
 add list=t-pot_blacklist comment=t-pot address=124.253.186.66
 add list=t-pot_blacklist comment=t-pot address=124.253.192.141
 add list=t-pot_blacklist comment=t-pot address=125.20.16.22
@@ -147,6 +149,7 @@ add list=t-pot_blacklist comment=t-pot address=190.57.75.42
 add list=t-pot_blacklist comment=t-pot address=192.34.58.54
 add list=t-pot_blacklist comment=t-pot address=192.99.233.108
 add list=t-pot_blacklist comment=t-pot address=194.180.49.139
+add list=t-pot_blacklist comment=t-pot address=195.190.104.66
 add list=t-pot_blacklist comment=t-pot address=196.251.114.29
 add list=t-pot_blacklist comment=t-pot address=196.251.117.173
 add list=t-pot_blacklist comment=t-pot address=196.251.66.57
@@ -192,6 +195,7 @@ add list=t-pot_blacklist comment=t-pot address=222.85.205.147
 add list=t-pot_blacklist comment=t-pot address=223.218.213.171
 add list=t-pot_blacklist comment=t-pot address=23.94.80.249
 add list=t-pot_blacklist comment=t-pot address=23.95.132.45
+add list=t-pot_blacklist comment=t-pot address=24.144.124.91
 add list=t-pot_blacklist comment=t-pot address=24.66.197.84
 add list=t-pot_blacklist comment=t-pot address=27.111.32.174
 add list=t-pot_blacklist comment=t-pot address=27.21.30.22
