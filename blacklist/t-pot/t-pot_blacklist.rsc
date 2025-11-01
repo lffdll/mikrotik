@@ -34,7 +34,6 @@ add list=t-pot_blacklist comment=t-pot address=104.26.13.205
 add list=t-pot_blacklist comment=t-pot address=106.12.151.247
 add list=t-pot_blacklist comment=t-pot address=106.13.39.89
 add list=t-pot_blacklist comment=t-pot address=106.13.56.137
-add list=t-pot_blacklist comment=t-pot address=107.173.10.71
 add list=t-pot_blacklist comment=t-pot address=109.186.77.82
 add list=t-pot_blacklist comment=t-pot address=111.113.88.37
 add list=t-pot_blacklist comment=t-pot address=111.176.155.66
@@ -134,13 +133,13 @@ add list=t-pot_blacklist comment=t-pot address=165.140.203.5
 add list=t-pot_blacklist comment=t-pot address=165.22.117.9
 add list=t-pot_blacklist comment=t-pot address=167.248.133.116
 add list=t-pot_blacklist comment=t-pot address=167.248.133.120
+add list=t-pot_blacklist comment=t-pot address=167.248.133.123
 add list=t-pot_blacklist comment=t-pot address=167.82.58.132
 add list=t-pot_blacklist comment=t-pot address=167.82.62.132
 add list=t-pot_blacklist comment=t-pot address=167.94.138.120
 add list=t-pot_blacklist comment=t-pot address=167.94.138.135
 add list=t-pot_blacklist comment=t-pot address=167.94.138.137
 add list=t-pot_blacklist comment=t-pot address=167.94.138.148
-add list=t-pot_blacklist comment=t-pot address=167.94.138.161
 add list=t-pot_blacklist comment=t-pot address=167.94.138.62
 add list=t-pot_blacklist comment=t-pot address=167.99.96.54
 add list=t-pot_blacklist comment=t-pot address=168.196.98.12
@@ -158,14 +157,15 @@ add list=t-pot_blacklist comment=t-pot address=175.126.166.172
 add list=t-pot_blacklist comment=t-pot address=175.178.109.86
 add list=t-pot_blacklist comment=t-pot address=176.109.71.168
 add list=t-pot_blacklist comment=t-pot address=176.65.148.168
+add list=t-pot_blacklist comment=t-pot address=176.65.148.246
 add list=t-pot_blacklist comment=t-pot address=176.65.149.19
 add list=t-pot_blacklist comment=t-pot address=176.65.149.208
 add list=t-pot_blacklist comment=t-pot address=176.65.149.30
 add list=t-pot_blacklist comment=t-pot address=177.163.15.32
 add list=t-pot_blacklist comment=t-pot address=177.182.133.169
-add list=t-pot_blacklist comment=t-pot address=177.66.129.184
 add list=t-pot_blacklist comment=t-pot address=177.8.71.122
 add list=t-pot_blacklist comment=t-pot address=178.117.123.162
+add list=t-pot_blacklist comment=t-pot address=178.128.213.192
 add list=t-pot_blacklist comment=t-pot address=178.128.241.122
 add list=t-pot_blacklist comment=t-pot address=178.223.39.251
 add list=t-pot_blacklist comment=t-pot address=179.49.177.60
@@ -242,6 +242,7 @@ add list=t-pot_blacklist comment=t-pot address=202.171.95.49
 add list=t-pot_blacklist comment=t-pot address=203.134.219.51
 add list=t-pot_blacklist comment=t-pot address=203.163.245.137
 add list=t-pot_blacklist comment=t-pot address=203.228.30.198
+add list=t-pot_blacklist comment=t-pot address=203.82.0.86
 add list=t-pot_blacklist comment=t-pot address=204.76.203.206
 add list=t-pot_blacklist comment=t-pot address=204.76.203.212
 add list=t-pot_blacklist comment=t-pot address=204.76.203.219
@@ -373,7 +374,6 @@ add list=t-pot_blacklist comment=t-pot address=66.132.153.55
 add list=t-pot_blacklist comment=t-pot address=66.132.153.60
 add list=t-pot_blacklist comment=t-pot address=68.183.171.70
 add list=t-pot_blacklist comment=t-pot address=68.183.4.143
-add list=t-pot_blacklist comment=t-pot address=68.183.93.67
 add list=t-pot_blacklist comment=t-pot address=71.24.1.234
 add list=t-pot_blacklist comment=t-pot address=71.84.83.76
 add list=t-pot_blacklist comment=t-pot address=73.62.66.10
@@ -391,6 +391,7 @@ add list=t-pot_blacklist comment=t-pot address=79.124.62.61
 add list=t-pot_blacklist comment=t-pot address=8.129.15.108
 add list=t-pot_blacklist comment=t-pot address=8.154.2.19
 add list=t-pot_blacklist comment=t-pot address=8.210.69.197
+add list=t-pot_blacklist comment=t-pot address=8.243.50.114
 add list=t-pot_blacklist comment=t-pot address=80.158.38.137
 add list=t-pot_blacklist comment=t-pot address=82.24.64.116
 add list=t-pot_blacklist comment=t-pot address=82.34.107.104
