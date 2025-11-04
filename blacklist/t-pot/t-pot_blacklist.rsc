@@ -141,6 +141,7 @@ add list=t-pot_blacklist comment=t-pot address=176.65.149.208
 add list=t-pot_blacklist comment=t-pot address=176.65.149.30
 add list=t-pot_blacklist comment=t-pot address=177.101.86.45
 add list=t-pot_blacklist comment=t-pot address=177.130.60.66
+add list=t-pot_blacklist comment=t-pot address=177.152.98.249
 add list=t-pot_blacklist comment=t-pot address=177.93.251.197
 add list=t-pot_blacklist comment=t-pot address=178.20.210.136
 add list=t-pot_blacklist comment=t-pot address=178.20.210.137
@@ -199,6 +200,7 @@ add list=t-pot_blacklist comment=t-pot address=196.251.80.178
 add list=t-pot_blacklist comment=t-pot address=198.38.88.6
 add list=t-pot_blacklist comment=t-pot address=199.45.154.185
 add list=t-pot_blacklist comment=t-pot address=2.187.97.68
+add list=t-pot_blacklist comment=t-pot address=2.57.121.20
 add list=t-pot_blacklist comment=t-pot address=2.57.122.234
 add list=t-pot_blacklist comment=t-pot address=20.207.73.85
 add list=t-pot_blacklist comment=t-pot address=201.139.216.116
@@ -210,6 +212,7 @@ add list=t-pot_blacklist comment=t-pot address=204.76.203.219
 add list=t-pot_blacklist comment=t-pot address=204.76.203.25
 add list=t-pot_blacklist comment=t-pot address=206.168.34.115
 add list=t-pot_blacklist comment=t-pot address=206.168.34.203
+add list=t-pot_blacklist comment=t-pot address=206.168.34.63
 add list=t-pot_blacklist comment=t-pot address=206.189.136.41
 add list=t-pot_blacklist comment=t-pot address=206.72.206.178
 add list=t-pot_blacklist comment=t-pot address=207.154.254.145
@@ -322,7 +325,6 @@ add list=t-pot_blacklist comment=t-pot address=61.78.98.181
 add list=t-pot_blacklist comment=t-pot address=62.219.193.158
 add list=t-pot_blacklist comment=t-pot address=62.72.12.181
 add list=t-pot_blacklist comment=t-pot address=64.227.160.57
-add list=t-pot_blacklist comment=t-pot address=64.227.163.74
 add list=t-pot_blacklist comment=t-pot address=64.62.156.122
 add list=t-pot_blacklist comment=t-pot address=64.62.156.127
 add list=t-pot_blacklist comment=t-pot address=64.62.156.177
