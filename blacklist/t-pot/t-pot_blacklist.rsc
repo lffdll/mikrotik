@@ -99,6 +99,7 @@ add list=t-pot_blacklist comment=t-pot address=14.241.229.250
 add list=t-pot_blacklist comment=t-pot address=140.210.216.207
 add list=t-pot_blacklist comment=t-pot address=140.82.121.5
 add list=t-pot_blacklist comment=t-pot address=140.82.121.6
+add list=t-pot_blacklist comment=t-pot address=142.54.232.1
 add list=t-pot_blacklist comment=t-pot address=142.93.238.166
 add list=t-pot_blacklist comment=t-pot address=145.255.15.187
 add list=t-pot_blacklist comment=t-pot address=146.158.107.16
@@ -162,6 +163,7 @@ add list=t-pot_blacklist comment=t-pot address=175.11.132.25
 add list=t-pot_blacklist comment=t-pot address=175.11.52.170
 add list=t-pot_blacklist comment=t-pot address=175.213.252.26
 add list=t-pot_blacklist comment=t-pot address=176.113.231.4
+add list=t-pot_blacklist comment=t-pot address=176.20.160.100
 add list=t-pot_blacklist comment=t-pot address=176.65.134.16
 add list=t-pot_blacklist comment=t-pot address=176.65.148.16
 add list=t-pot_blacklist comment=t-pot address=176.65.148.168
@@ -189,6 +191,7 @@ add list=t-pot_blacklist comment=t-pot address=179.63.54.252
 add list=t-pot_blacklist comment=t-pot address=18.173.205.126
 add list=t-pot_blacklist comment=t-pot address=18.173.205.44
 add list=t-pot_blacklist comment=t-pot address=18.173.205.51
+add list=t-pot_blacklist comment=t-pot address=180.103.212.72
 add list=t-pot_blacklist comment=t-pot address=180.108.104.63
 add list=t-pot_blacklist comment=t-pot address=180.114.221.99
 add list=t-pot_blacklist comment=t-pot address=180.36.241.41
@@ -391,6 +394,7 @@ add list=t-pot_blacklist comment=t-pot address=59.120.198.91
 add list=t-pot_blacklist comment=t-pot address=59.183.141.153
 add list=t-pot_blacklist comment=t-pot address=59.9.101.25
 add list=t-pot_blacklist comment=t-pot address=60.13.6.99
+add list=t-pot_blacklist comment=t-pot address=60.205.122.184
 add list=t-pot_blacklist comment=t-pot address=61.137.202.104
 add list=t-pot_blacklist comment=t-pot address=61.227.2.176
 add list=t-pot_blacklist comment=t-pot address=62.176.16.83
