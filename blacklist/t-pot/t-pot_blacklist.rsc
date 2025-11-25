@@ -26,6 +26,7 @@ add list=t-pot_blacklist comment=t-pot address=105.73.190.64
 add list=t-pot_blacklist comment=t-pot address=105.73.190.78
 add list=t-pot_blacklist comment=t-pot address=105.73.196.19
 add list=t-pot_blacklist comment=t-pot address=105.73.200.192
+add list=t-pot_blacklist comment=t-pot address=106.1.4.71
 add list=t-pot_blacklist comment=t-pot address=106.107.240.178
 add list=t-pot_blacklist comment=t-pot address=106.245.64.151
 add list=t-pot_blacklist comment=t-pot address=107.181.161.85
@@ -174,6 +175,7 @@ add list=t-pot_blacklist comment=t-pot address=168.90.110.26
 add list=t-pot_blacklist comment=t-pot address=170.106.114.94
 add list=t-pot_blacklist comment=t-pot address=170.238.130.134
 add list=t-pot_blacklist comment=t-pot address=170.245.249.43
+add list=t-pot_blacklist comment=t-pot address=170.245.249.7
 add list=t-pot_blacklist comment=t-pot address=170.79.166.9
 add list=t-pot_blacklist comment=t-pot address=170.84.101.117
 add list=t-pot_blacklist comment=t-pot address=171.244.49.161
@@ -200,6 +202,7 @@ add list=t-pot_blacklist comment=t-pot address=180.131.109.228
 add list=t-pot_blacklist comment=t-pot address=180.131.168.114
 add list=t-pot_blacklist comment=t-pot address=180.182.234.12
 add list=t-pot_blacklist comment=t-pot address=180.64.214.192
+add list=t-pot_blacklist comment=t-pot address=181.105.90.55
 add list=t-pot_blacklist comment=t-pot address=181.114.163.207
 add list=t-pot_blacklist comment=t-pot address=181.114.175.241
 add list=t-pot_blacklist comment=t-pot address=181.90.84.75
@@ -366,6 +369,7 @@ add list=t-pot_blacklist comment=t-pot address=39.88.2.60
 add list=t-pot_blacklist comment=t-pot address=41.155.88.155
 add list=t-pot_blacklist comment=t-pot address=41.214.62.18
 add list=t-pot_blacklist comment=t-pot address=41.34.102.150
+add list=t-pot_blacklist comment=t-pot address=43.154.131.17
 add list=t-pot_blacklist comment=t-pot address=43.230.104.115
 add list=t-pot_blacklist comment=t-pot address=43.230.104.69
 add list=t-pot_blacklist comment=t-pot address=44.217.106.106
