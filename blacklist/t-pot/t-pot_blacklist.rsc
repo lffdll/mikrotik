@@ -4,6 +4,7 @@ add list=t-pot_blacklist comment=t-pot address=1.64.107.137
 add list=t-pot_blacklist comment=t-pot address=101.126.37.183
 add list=t-pot_blacklist comment=t-pot address=101.132.80.207
 add list=t-pot_blacklist comment=t-pot address=101.201.32.249
+add list=t-pot_blacklist comment=t-pot address=101.43.118.136
 add list=t-pot_blacklist comment=t-pot address=101.68.46.64
 add list=t-pot_blacklist comment=t-pot address=101.91.127.3
 add list=t-pot_blacklist comment=t-pot address=103.110.17.175
@@ -149,7 +150,6 @@ add list=t-pot_blacklist comment=t-pot address=161.35.146.100
 add list=t-pot_blacklist comment=t-pot address=161.35.81.157
 add list=t-pot_blacklist comment=t-pot address=161.97.103.214
 add list=t-pot_blacklist comment=t-pot address=164.152.36.29
-add list=t-pot_blacklist comment=t-pot address=164.92.209.150
 add list=t-pot_blacklist comment=t-pot address=164.92.211.45
 add list=t-pot_blacklist comment=t-pot address=165.22.220.35
 add list=t-pot_blacklist comment=t-pot address=165.22.253.30
@@ -168,7 +168,6 @@ add list=t-pot_blacklist comment=t-pot address=167.99.229.45
 add list=t-pot_blacklist comment=t-pot address=168.195.25.241
 add list=t-pot_blacklist comment=t-pot address=170.187.238.170
 add list=t-pot_blacklist comment=t-pot address=170.64.180.13
-add list=t-pot_blacklist comment=t-pot address=172.104.132.135
 add list=t-pot_blacklist comment=t-pot address=172.104.93.159
 add list=t-pot_blacklist comment=t-pot address=172.172.216.120
 add list=t-pot_blacklist comment=t-pot address=172.174.112.6
@@ -328,6 +327,7 @@ add list=t-pot_blacklist comment=t-pot address=47.117.3.109
 add list=t-pot_blacklist comment=t-pot address=47.188.145.122
 add list=t-pot_blacklist comment=t-pot address=5.141.81.171
 add list=t-pot_blacklist comment=t-pot address=5.189.177.174
+add list=t-pot_blacklist comment=t-pot address=5.227.168.40
 add list=t-pot_blacklist comment=t-pot address=5.26.234.202
 add list=t-pot_blacklist comment=t-pot address=5.44.40.170
 add list=t-pot_blacklist comment=t-pot address=50.116.9.129
