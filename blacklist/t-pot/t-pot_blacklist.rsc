@@ -6,7 +6,6 @@ add list=t-pot_blacklist comment=t-pot address=103.186.246.209
 add list=t-pot_blacklist comment=t-pot address=103.214.234.89
 add list=t-pot_blacklist comment=t-pot address=103.252.171.170
 add list=t-pot_blacklist comment=t-pot address=103.29.69.96
-add list=t-pot_blacklist comment=t-pot address=103.29.70.204
 add list=t-pot_blacklist comment=t-pot address=103.4.92.17
 add list=t-pot_blacklist comment=t-pot address=103.77.241.135
 add list=t-pot_blacklist comment=t-pot address=104.200.16.191
@@ -47,7 +46,6 @@ add list=t-pot_blacklist comment=t-pot address=123.21.226.244
 add list=t-pot_blacklist comment=t-pot address=124.253.194.38
 add list=t-pot_blacklist comment=t-pot address=124.253.67.230
 add list=t-pot_blacklist comment=t-pot address=125.112.205.233
-add list=t-pot_blacklist comment=t-pot address=125.25.224.227
 add list=t-pot_blacklist comment=t-pot address=128.1.126.101
 add list=t-pot_blacklist comment=t-pot address=129.212.176.14
 add list=t-pot_blacklist comment=t-pot address=129.212.179.80
@@ -73,9 +71,7 @@ add list=t-pot_blacklist comment=t-pot address=144.126.212.4
 add list=t-pot_blacklist comment=t-pot address=144.31.93.249
 add list=t-pot_blacklist comment=t-pot address=146.19.24.16
 add list=t-pot_blacklist comment=t-pot address=146.247.85.242
-add list=t-pot_blacklist comment=t-pot address=147.185.132.10
 add list=t-pot_blacklist comment=t-pot address=149.28.24.241
-add list=t-pot_blacklist comment=t-pot address=150.230.214.236
 add list=t-pot_blacklist comment=t-pot address=151.12.132.243
 add list=t-pot_blacklist comment=t-pot address=151.237.71.178
 add list=t-pot_blacklist comment=t-pot address=152.233.20.7
@@ -93,7 +89,6 @@ add list=t-pot_blacklist comment=t-pot address=159.89.7.225
 add list=t-pot_blacklist comment=t-pot address=161.35.223.182
 add list=t-pot_blacklist comment=t-pot address=161.35.92.112
 add list=t-pot_blacklist comment=t-pot address=162.142.125.193
-add list=t-pot_blacklist comment=t-pot address=162.83.157.119
 add list=t-pot_blacklist comment=t-pot address=164.152.36.29
 add list=t-pot_blacklist comment=t-pot address=164.92.171.132
 add list=t-pot_blacklist comment=t-pot address=164.92.222.214
@@ -124,7 +119,6 @@ add list=t-pot_blacklist comment=t-pot address=172.202.49.190
 add list=t-pot_blacklist comment=t-pot address=172.67.74.152
 add list=t-pot_blacklist comment=t-pot address=175.0.190.199
 add list=t-pot_blacklist comment=t-pot address=175.0.64.108
-add list=t-pot_blacklist comment=t-pot address=175.10.48.252
 add list=t-pot_blacklist comment=t-pot address=175.107.1.222
 add list=t-pot_blacklist comment=t-pot address=175.143.183.17
 add list=t-pot_blacklist comment=t-pot address=175.194.215.217
@@ -142,7 +136,6 @@ add list=t-pot_blacklist comment=t-pot address=178.242.34.22
 add list=t-pot_blacklist comment=t-pot address=178.46.66.89
 add list=t-pot_blacklist comment=t-pot address=178.62.244.207
 add list=t-pot_blacklist comment=t-pot address=178.62.246.108
-add list=t-pot_blacklist comment=t-pot address=178.62.77.227
 add list=t-pot_blacklist comment=t-pot address=18.212.86.166
 add list=t-pot_blacklist comment=t-pot address=18.220.122.143
 add list=t-pot_blacklist comment=t-pot address=181.224.161.195
@@ -157,6 +150,7 @@ add list=t-pot_blacklist comment=t-pot address=184.105.247.223
 add list=t-pot_blacklist comment=t-pot address=185.141.107.29
 add list=t-pot_blacklist comment=t-pot address=185.180.141.40
 add list=t-pot_blacklist comment=t-pot address=185.200.116.86
+add list=t-pot_blacklist comment=t-pot address=185.208.158.183
 add list=t-pot_blacklist comment=t-pot address=185.224.128.16
 add list=t-pot_blacklist comment=t-pot address=185.226.196.7
 add list=t-pot_blacklist comment=t-pot address=185.243.5.145
@@ -164,6 +158,7 @@ add list=t-pot_blacklist comment=t-pot address=185.60.74.70
 add list=t-pot_blacklist comment=t-pot address=185.96.167.105
 add list=t-pot_blacklist comment=t-pot address=186.15.188.158
 add list=t-pot_blacklist comment=t-pot address=187.250.134.58
+add list=t-pot_blacklist comment=t-pot address=187.60.175.131
 add list=t-pot_blacklist comment=t-pot address=187.95.49.247
 add list=t-pot_blacklist comment=t-pot address=188.166.148.64
 add list=t-pot_blacklist comment=t-pot address=188.166.228.51
@@ -211,7 +206,6 @@ add list=t-pot_blacklist comment=t-pot address=212.233.151.88
 add list=t-pot_blacklist comment=t-pot address=213.164.194.142
 add list=t-pot_blacklist comment=t-pot address=217.119.139.103
 add list=t-pot_blacklist comment=t-pot address=219.131.10.21
-add list=t-pot_blacklist comment=t-pot address=221.233.139.101
 add list=t-pot_blacklist comment=t-pot address=24.199.107.169
 add list=t-pot_blacklist comment=t-pot address=27.72.73.123
 add list=t-pot_blacklist comment=t-pot address=27.74.244.178
@@ -231,7 +225,6 @@ add list=t-pot_blacklist comment=t-pot address=34.72.239.183
 add list=t-pot_blacklist comment=t-pot address=34.95.113.255
 add list=t-pot_blacklist comment=t-pot address=35.87.52.220
 add list=t-pot_blacklist comment=t-pot address=36.255.98.221
-add list=t-pot_blacklist comment=t-pot address=37.148.2.8
 add list=t-pot_blacklist comment=t-pot address=37.238.162.92
 add list=t-pot_blacklist comment=t-pot address=37.36.222.58
 add list=t-pot_blacklist comment=t-pot address=37.55.141.226
@@ -252,25 +245,25 @@ add list=t-pot_blacklist comment=t-pot address=45.132.180.88
 add list=t-pot_blacklist comment=t-pot address=45.135.194.31
 add list=t-pot_blacklist comment=t-pot address=45.144.212.221
 add list=t-pot_blacklist comment=t-pot address=45.151.139.98
+add list=t-pot_blacklist comment=t-pot address=45.153.34.146
 add list=t-pot_blacklist comment=t-pot address=45.153.34.193
+add list=t-pot_blacklist comment=t-pot address=45.154.98.124
 add list=t-pot_blacklist comment=t-pot address=45.156.129.140
 add list=t-pot_blacklist comment=t-pot address=45.156.87.133
 add list=t-pot_blacklist comment=t-pot address=45.156.87.22
+add list=t-pot_blacklist comment=t-pot address=45.156.87.74
 add list=t-pot_blacklist comment=t-pot address=45.162.12.4
 add list=t-pot_blacklist comment=t-pot address=45.190.138.251
 add list=t-pot_blacklist comment=t-pot address=45.191.222.14
-add list=t-pot_blacklist comment=t-pot address=45.194.92.18
 add list=t-pot_blacklist comment=t-pot address=45.227.254.10
 add list=t-pot_blacklist comment=t-pot address=45.71.80.175
 add list=t-pot_blacklist comment=t-pot address=45.76.69.64
 add list=t-pot_blacklist comment=t-pot address=45.89.30.194
-add list=t-pot_blacklist comment=t-pot address=46.146.248.148
 add list=t-pot_blacklist comment=t-pot address=46.176.186.141
 add list=t-pot_blacklist comment=t-pot address=46.196.218.240
 add list=t-pot_blacklist comment=t-pot address=46.22.233.22
 add list=t-pot_blacklist comment=t-pot address=47.236.36.81
 add list=t-pot_blacklist comment=t-pot address=47.242.7.177
-add list=t-pot_blacklist comment=t-pot address=47.41.11.26
 add list=t-pot_blacklist comment=t-pot address=48.216.217.27
 add list=t-pot_blacklist comment=t-pot address=49.213.153.168
 add list=t-pot_blacklist comment=t-pot address=49.213.194.139
@@ -278,7 +271,6 @@ add list=t-pot_blacklist comment=t-pot address=49.234.53.181
 add list=t-pot_blacklist comment=t-pot address=5.140.213.5
 add list=t-pot_blacklist comment=t-pot address=5.181.190.121
 add list=t-pot_blacklist comment=t-pot address=5.187.117.75
-add list=t-pot_blacklist comment=t-pot address=5.187.35.158
 add list=t-pot_blacklist comment=t-pot address=5.187.35.21
 add list=t-pot_blacklist comment=t-pot address=5.44.107.121
 add list=t-pot_blacklist comment=t-pot address=5.58.23.116
@@ -303,6 +295,10 @@ add list=t-pot_blacklist comment=t-pot address=64.62.156.122
 add list=t-pot_blacklist comment=t-pot address=64.62.156.127
 add list=t-pot_blacklist comment=t-pot address=64.62.156.152
 add list=t-pot_blacklist comment=t-pot address=64.62.156.158
+add list=t-pot_blacklist comment=t-pot address=64.62.156.182
+add list=t-pot_blacklist comment=t-pot address=64.62.156.183
+add list=t-pot_blacklist comment=t-pot address=64.62.156.187
+add list=t-pot_blacklist comment=t-pot address=64.62.156.190
 add list=t-pot_blacklist comment=t-pot address=64.62.156.86
 add list=t-pot_blacklist comment=t-pot address=64.62.156.87
 add list=t-pot_blacklist comment=t-pot address=65.49.1.182
@@ -331,7 +327,6 @@ add list=t-pot_blacklist comment=t-pot address=77.238.143.251
 add list=t-pot_blacklist comment=t-pot address=77.238.209.82
 add list=t-pot_blacklist comment=t-pot address=78.155.37.207
 add list=t-pot_blacklist comment=t-pot address=78.161.180.175
-add list=t-pot_blacklist comment=t-pot address=78.83.156.164
 add list=t-pot_blacklist comment=t-pot address=79.124.62.53
 add list=t-pot_blacklist comment=t-pot address=8.138.206.71
 add list=t-pot_blacklist comment=t-pot address=8.210.121.70
@@ -371,7 +366,6 @@ add list=t-pot_blacklist comment=t-pot address=94.53.167.35
 add list=t-pot_blacklist comment=t-pot address=95.214.54.147
 add list=t-pot_blacklist comment=t-pot address=95.214.55.41
 add list=t-pot_blacklist comment=t-pot address=95.249.91.121
-add list=t-pot_blacklist comment=t-pot address=95.68.225.46
 add list=t-pot_blacklist comment=t-pot address=96.125.128.58
 add list=t-pot_blacklist comment=t-pot address=96.33.79.62
 add list=t-pot_blacklist comment=t-pot address=96.88.10.125
