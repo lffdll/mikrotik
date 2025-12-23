@@ -15,7 +15,6 @@ add list=t-pot_blacklist comment=t-pot address=103.199.180.28
 add list=t-pot_blacklist comment=t-pot address=103.29.69.96
 add list=t-pot_blacklist comment=t-pot address=103.30.30.193
 add list=t-pot_blacklist comment=t-pot address=103.9.78.57
-add list=t-pot_blacklist comment=t-pot address=104.192.80.220
 add list=t-pot_blacklist comment=t-pot address=104.207.151.13
 add list=t-pot_blacklist comment=t-pot address=104.248.166.163
 add list=t-pot_blacklist comment=t-pot address=104.26.12.205
@@ -84,6 +83,7 @@ add list=t-pot_blacklist comment=t-pot address=142.93.133.124
 add list=t-pot_blacklist comment=t-pot address=142.93.133.31
 add list=t-pot_blacklist comment=t-pot address=142.93.208.153
 add list=t-pot_blacklist comment=t-pot address=143.110.149.144
+add list=t-pot_blacklist comment=t-pot address=143.198.58.67
 add list=t-pot_blacklist comment=t-pot address=143.20.129.11
 add list=t-pot_blacklist comment=t-pot address=144.123.78.21
 add list=t-pot_blacklist comment=t-pot address=144.126.212.4
@@ -259,7 +259,6 @@ add list=t-pot_blacklist comment=t-pot address=42.87.140.180
 add list=t-pot_blacklist comment=t-pot address=43.163.26.232
 add list=t-pot_blacklist comment=t-pot address=43.252.159.234
 add list=t-pot_blacklist comment=t-pot address=44.198.163.242
-add list=t-pot_blacklist comment=t-pot address=45.135.232.202
 add list=t-pot_blacklist comment=t-pot address=45.153.34.146
 add list=t-pot_blacklist comment=t-pot address=45.156.128.135
 add list=t-pot_blacklist comment=t-pot address=45.156.129.142
@@ -338,6 +337,7 @@ add list=t-pot_blacklist comment=t-pot address=79.124.40.170
 add list=t-pot_blacklist comment=t-pot address=79.57.71.235
 add list=t-pot_blacklist comment=t-pot address=8.47.69.8
 add list=t-pot_blacklist comment=t-pot address=8.6.112.8
+add list=t-pot_blacklist comment=t-pot address=80.72.24.152
 add list=t-pot_blacklist comment=t-pot address=81.218.212.29
 add list=t-pot_blacklist comment=t-pot address=82.153.138.233
 add list=t-pot_blacklist comment=t-pot address=82.21.4.96
