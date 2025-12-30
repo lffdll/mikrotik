@@ -22,6 +22,7 @@ add list=t-pot_blacklist comment=t-pot address=112.46.212.50
 add list=t-pot_blacklist comment=t-pot address=112.46.214.85
 add list=t-pot_blacklist comment=t-pot address=113.53.62.205
 add list=t-pot_blacklist comment=t-pot address=116.110.221.218
+add list=t-pot_blacklist comment=t-pot address=116.34.14.135
 add list=t-pot_blacklist comment=t-pot address=117.215.53.23
 add list=t-pot_blacklist comment=t-pot address=117.252.124.199
 add list=t-pot_blacklist comment=t-pot address=119.196.190.100
@@ -29,6 +30,7 @@ add list=t-pot_blacklist comment=t-pot address=119.42.107.108
 add list=t-pot_blacklist comment=t-pot address=120.56.248.165
 add list=t-pot_blacklist comment=t-pot address=120.78.3.232
 add list=t-pot_blacklist comment=t-pot address=122.114.65.134
+add list=t-pot_blacklist comment=t-pot address=123.12.16.131
 add list=t-pot_blacklist comment=t-pot address=123.21.14.220
 add list=t-pot_blacklist comment=t-pot address=129.212.176.14
 add list=t-pot_blacklist comment=t-pot address=129.212.189.77
@@ -219,7 +221,6 @@ add list=t-pot_blacklist comment=t-pot address=2.57.121.25
 add list=t-pot_blacklist comment=t-pot address=2.67.219.254
 add list=t-pot_blacklist comment=t-pot address=20.168.7.237
 add list=t-pot_blacklist comment=t-pot address=20.98.165.171
-add list=t-pot_blacklist comment=t-pot address=203.55.131.5
 add list=t-pot_blacklist comment=t-pot address=204.76.203.125
 add list=t-pot_blacklist comment=t-pot address=204.76.203.212
 add list=t-pot_blacklist comment=t-pot address=204.76.203.83
@@ -256,7 +257,6 @@ add list=t-pot_blacklist comment=t-pot address=24.163.114.60
 add list=t-pot_blacklist comment=t-pot address=24.199.114.216
 add list=t-pot_blacklist comment=t-pot address=27.71.229.11
 add list=t-pot_blacklist comment=t-pot address=27.79.47.85
-add list=t-pot_blacklist comment=t-pot address=27.79.7.241
 add list=t-pot_blacklist comment=t-pot address=3.174.113.102
 add list=t-pot_blacklist comment=t-pot address=3.174.113.38
 add list=t-pot_blacklist comment=t-pot address=3.174.113.68
