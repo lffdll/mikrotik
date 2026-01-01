@@ -34,7 +34,6 @@ add list=t-pot_blacklist comment=t-pot address=120.78.3.232
 add list=t-pot_blacklist comment=t-pot address=121.165.61.178
 add list=t-pot_blacklist comment=t-pot address=121.167.56.61
 add list=t-pot_blacklist comment=t-pot address=123.241.254.146
-add list=t-pot_blacklist comment=t-pot address=124.246.80.104
 add list=t-pot_blacklist comment=t-pot address=129.212.176.14
 add list=t-pot_blacklist comment=t-pot address=13.220.42.9
 add list=t-pot_blacklist comment=t-pot address=13.227.219.37
@@ -162,6 +161,7 @@ add list=t-pot_blacklist comment=t-pot address=202.189.7.173
 add list=t-pot_blacklist comment=t-pot address=203.124.40.82
 add list=t-pot_blacklist comment=t-pot address=204.76.203.206
 add list=t-pot_blacklist comment=t-pot address=204.76.203.212
+add list=t-pot_blacklist comment=t-pot address=204.76.203.219
 add list=t-pot_blacklist comment=t-pot address=204.76.203.83
 add list=t-pot_blacklist comment=t-pot address=204.76.203.93
 add list=t-pot_blacklist comment=t-pot address=206.119.178.171
@@ -185,6 +185,7 @@ add list=t-pot_blacklist comment=t-pot address=216.180.246.147
 add list=t-pot_blacklist comment=t-pot address=217.113.30.190
 add list=t-pot_blacklist comment=t-pot address=217.119.139.103
 add list=t-pot_blacklist comment=t-pot address=217.64.29.60
+add list=t-pot_blacklist comment=t-pot address=217.76.59.192
 add list=t-pot_blacklist comment=t-pot address=223.17.123.198
 add list=t-pot_blacklist comment=t-pot address=23.163.216.24
 add list=t-pot_blacklist comment=t-pot address=23.95.186.189
@@ -303,7 +304,6 @@ add list=t-pot_blacklist comment=t-pot address=91.223.3.135
 add list=t-pot_blacklist comment=t-pot address=91.224.92.109
 add list=t-pot_blacklist comment=t-pot address=91.231.84.141
 add list=t-pot_blacklist comment=t-pot address=91.92.241.59
-add list=t-pot_blacklist comment=t-pot address=92.204.172.235
 add list=t-pot_blacklist comment=t-pot address=93.152.230.192
 add list=t-pot_blacklist comment=t-pot address=93.43.210.23
 add list=t-pot_blacklist comment=t-pot address=94.102.49.125
