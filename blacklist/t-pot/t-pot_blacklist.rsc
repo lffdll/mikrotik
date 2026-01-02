@@ -15,6 +15,7 @@ add list=t-pot_blacklist comment=t-pot address=104.248.87.50
 add list=t-pot_blacklist comment=t-pot address=104.26.12.205
 add list=t-pot_blacklist comment=t-pot address=104.26.13.205
 add list=t-pot_blacklist comment=t-pot address=106.247.141.104
+add list=t-pot_blacklist comment=t-pot address=108.181.23.93
 add list=t-pot_blacklist comment=t-pot address=108.31.76.60
 add list=t-pot_blacklist comment=t-pot address=108.46.33.241
 add list=t-pot_blacklist comment=t-pot address=109.205.213.253
@@ -25,6 +26,7 @@ add list=t-pot_blacklist comment=t-pot address=112.74.38.239
 add list=t-pot_blacklist comment=t-pot address=113.120.155.81
 add list=t-pot_blacklist comment=t-pot address=113.161.40.60
 add list=t-pot_blacklist comment=t-pot address=113.210.69.218
+add list=t-pot_blacklist comment=t-pot address=113.31.103.166
 add list=t-pot_blacklist comment=t-pot address=114.190.228.199
 add list=t-pot_blacklist comment=t-pot address=114.33.12.13
 add list=t-pot_blacklist comment=t-pot address=115.63.151.84
@@ -35,7 +37,6 @@ add list=t-pot_blacklist comment=t-pot address=116.203.190.163
 add list=t-pot_blacklist comment=t-pot address=116.99.174.103
 add list=t-pot_blacklist comment=t-pot address=117.72.55.116
 add list=t-pot_blacklist comment=t-pot address=119.116.32.7
-add list=t-pot_blacklist comment=t-pot address=119.188.157.158
 add list=t-pot_blacklist comment=t-pot address=119.245.86.43
 add list=t-pot_blacklist comment=t-pot address=120.157.62.2
 add list=t-pot_blacklist comment=t-pot address=120.48.144.5
@@ -228,7 +229,6 @@ add list=t-pot_blacklist comment=t-pot address=194.50.12.189
 add list=t-pot_blacklist comment=t-pot address=194.62.19.165
 add list=t-pot_blacklist comment=t-pot address=195.164.224.78
 add list=t-pot_blacklist comment=t-pot address=195.178.110.230
-add list=t-pot_blacklist comment=t-pot address=195.178.110.25
 add list=t-pot_blacklist comment=t-pot address=195.238.126.163
 add list=t-pot_blacklist comment=t-pot address=195.239.223.187
 add list=t-pot_blacklist comment=t-pot address=195.58.49.145
@@ -286,7 +286,6 @@ add list=t-pot_blacklist comment=t-pot address=37.193.231.56
 add list=t-pot_blacklist comment=t-pot address=37.228.129.144
 add list=t-pot_blacklist comment=t-pot address=37.237.188.19
 add list=t-pot_blacklist comment=t-pot address=38.132.109.100
-add list=t-pot_blacklist comment=t-pot address=38.224.32.12
 add list=t-pot_blacklist comment=t-pot address=38.252.64.204
 add list=t-pot_blacklist comment=t-pot address=39.104.64.139
 add list=t-pot_blacklist comment=t-pot address=42.227.207.206
@@ -316,15 +315,9 @@ add list=t-pot_blacklist comment=t-pot address=54.39.152.82
 add list=t-pot_blacklist comment=t-pot address=54.88.73.27
 add list=t-pot_blacklist comment=t-pot address=59.1.166.231
 add list=t-pot_blacklist comment=t-pot address=59.182.90.144
-add list=t-pot_blacklist comment=t-pot address=62.105.130.9
 add list=t-pot_blacklist comment=t-pot address=64.227.72.157
 add list=t-pot_blacklist comment=t-pot address=64.227.79.211
 add list=t-pot_blacklist comment=t-pot address=64.23.139.220
-add list=t-pot_blacklist comment=t-pot address=64.62.156.108
-add list=t-pot_blacklist comment=t-pot address=64.62.156.112
-add list=t-pot_blacklist comment=t-pot address=64.62.156.116
-add list=t-pot_blacklist comment=t-pot address=64.62.156.117
-add list=t-pot_blacklist comment=t-pot address=64.62.156.121
 add list=t-pot_blacklist comment=t-pot address=64.62.156.125
 add list=t-pot_blacklist comment=t-pot address=64.62.156.129
 add list=t-pot_blacklist comment=t-pot address=64.62.156.15
@@ -370,7 +363,6 @@ add list=t-pot_blacklist comment=t-pot address=77.238.142.101
 add list=t-pot_blacklist comment=t-pot address=77.238.143.251
 add list=t-pot_blacklist comment=t-pot address=77.238.209.82
 add list=t-pot_blacklist comment=t-pot address=78.128.114.126
-add list=t-pot_blacklist comment=t-pot address=78.139.67.57
 add list=t-pot_blacklist comment=t-pot address=79.124.40.170
 add list=t-pot_blacklist comment=t-pot address=79.124.62.53
 add list=t-pot_blacklist comment=t-pot address=79.124.62.61
