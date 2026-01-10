@@ -204,6 +204,7 @@ add list=t-pot_blacklist comment=t-pot address=177.126.221.55
 add list=t-pot_blacklist comment=t-pot address=177.128.177.70
 add list=t-pot_blacklist comment=t-pot address=177.136.41.37
 add list=t-pot_blacklist comment=t-pot address=177.20.162.80
+add list=t-pot_blacklist comment=t-pot address=177.242.4.4
 add list=t-pot_blacklist comment=t-pot address=177.249.163.252
 add list=t-pot_blacklist comment=t-pot address=177.33.95.50
 add list=t-pot_blacklist comment=t-pot address=177.36.14.155
@@ -266,6 +267,7 @@ add list=t-pot_blacklist comment=t-pot address=187.122.177.86
 add list=t-pot_blacklist comment=t-pot address=187.123.103.190
 add list=t-pot_blacklist comment=t-pot address=187.140.89.99
 add list=t-pot_blacklist comment=t-pot address=187.184.123.163
+add list=t-pot_blacklist comment=t-pot address=187.190.199.52
 add list=t-pot_blacklist comment=t-pot address=187.62.82.43
 add list=t-pot_blacklist comment=t-pot address=187.91.1.243
 add list=t-pot_blacklist comment=t-pot address=188.166.106.11
@@ -298,6 +300,7 @@ add list=t-pot_blacklist comment=t-pot address=190.92.35.128
 add list=t-pot_blacklist comment=t-pot address=190.92.5.104
 add list=t-pot_blacklist comment=t-pot address=190.92.62.228
 add list=t-pot_blacklist comment=t-pot address=191.156.253.48
+add list=t-pot_blacklist comment=t-pot address=191.37.3.51
 add list=t-pot_blacklist comment=t-pot address=191.84.208.58
 add list=t-pot_blacklist comment=t-pot address=193.24.231.70
 add list=t-pot_blacklist comment=t-pot address=193.27.90.4
@@ -345,6 +348,7 @@ add list=t-pot_blacklist comment=t-pot address=206.0.24.249
 add list=t-pot_blacklist comment=t-pot address=206.168.34.119
 add list=t-pot_blacklist comment=t-pot address=206.168.34.200
 add list=t-pot_blacklist comment=t-pot address=206.168.34.205
+add list=t-pot_blacklist comment=t-pot address=206.189.1.248
 add list=t-pot_blacklist comment=t-pot address=206.189.101.117
 add list=t-pot_blacklist comment=t-pot address=206.189.107.125
 add list=t-pot_blacklist comment=t-pot address=206.62.143.24
@@ -457,6 +461,7 @@ add list=t-pot_blacklist comment=t-pot address=49.145.77.206
 add list=t-pot_blacklist comment=t-pot address=49.204.97.236
 add list=t-pot_blacklist comment=t-pot address=49.36.240.109
 add list=t-pot_blacklist comment=t-pot address=49.43.90.224
+add list=t-pot_blacklist comment=t-pot address=49.43.91.202
 add list=t-pot_blacklist comment=t-pot address=5.155.35.114
 add list=t-pot_blacklist comment=t-pot address=5.77.196.237
 add list=t-pot_blacklist comment=t-pot address=50.17.31.102
@@ -477,6 +482,7 @@ add list=t-pot_blacklist comment=t-pot address=64.62.156.119
 add list=t-pot_blacklist comment=t-pot address=64.62.156.19
 add list=t-pot_blacklist comment=t-pot address=64.62.156.38
 add list=t-pot_blacklist comment=t-pot address=64.62.156.44
+add list=t-pot_blacklist comment=t-pot address=64.62.156.58
 add list=t-pot_blacklist comment=t-pot address=64.62.156.93
 add list=t-pot_blacklist comment=t-pot address=65.49.1.162
 add list=t-pot_blacklist comment=t-pot address=65.49.1.168
@@ -523,6 +529,7 @@ add list=t-pot_blacklist comment=t-pot address=78.190.123.51
 add list=t-pot_blacklist comment=t-pot address=79.124.40.170
 add list=t-pot_blacklist comment=t-pot address=79.124.62.61
 add list=t-pot_blacklist comment=t-pot address=79.248.247.241
+add list=t-pot_blacklist comment=t-pot address=8.218.125.20
 add list=t-pot_blacklist comment=t-pot address=8.219.155.122
 add list=t-pot_blacklist comment=t-pot address=8.47.69.8
 add list=t-pot_blacklist comment=t-pot address=8.6.112.8
@@ -572,6 +579,7 @@ add list=t-pot_blacklist comment=t-pot address=91.80.142.209
 add list=t-pot_blacklist comment=t-pot address=92.190.213.94
 add list=t-pot_blacklist comment=t-pot address=92.253.119.176
 add list=t-pot_blacklist comment=t-pot address=92.253.235.69
+add list=t-pot_blacklist comment=t-pot address=93.105.178.120
 add list=t-pot_blacklist comment=t-pot address=93.112.234.132
 add list=t-pot_blacklist comment=t-pot address=93.163.148.190
 add list=t-pot_blacklist comment=t-pot address=94.123.198.223
