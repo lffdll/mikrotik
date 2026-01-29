@@ -37,6 +37,7 @@ add list=t-pot_blacklist comment=t-pot address=118.174.3.211
 add list=t-pot_blacklist comment=t-pot address=119.120.250.45
 add list=t-pot_blacklist comment=t-pot address=119.42.59.2
 add list=t-pot_blacklist comment=t-pot address=121.155.148.205
+add list=t-pot_blacklist comment=t-pot address=121.167.56.61
 add list=t-pot_blacklist comment=t-pot address=122.186.168.242
 add list=t-pot_blacklist comment=t-pot address=122.242.67.135
 add list=t-pot_blacklist comment=t-pot address=124.61.210.150
@@ -56,7 +57,6 @@ add list=t-pot_blacklist comment=t-pot address=138.68.65.58
 add list=t-pot_blacklist comment=t-pot address=139.19.117.132
 add list=t-pot_blacklist comment=t-pot address=139.59.231.238
 add list=t-pot_blacklist comment=t-pot address=139.59.37.188
-add list=t-pot_blacklist comment=t-pot address=14.233.228.248
 add list=t-pot_blacklist comment=t-pot address=140.82.121.5
 add list=t-pot_blacklist comment=t-pot address=140.82.121.6
 add list=t-pot_blacklist comment=t-pot address=141.154.11.200
@@ -185,7 +185,6 @@ add list=t-pot_blacklist comment=t-pot address=34.95.113.255
 add list=t-pot_blacklist comment=t-pot address=35.92.116.86
 add list=t-pot_blacklist comment=t-pot address=36.111.151.34
 add list=t-pot_blacklist comment=t-pot address=36.112.104.133
-add list=t-pot_blacklist comment=t-pot address=36.35.166.114
 add list=t-pot_blacklist comment=t-pot address=37.224.76.251
 add list=t-pot_blacklist comment=t-pot address=39.99.148.147
 add list=t-pot_blacklist comment=t-pot address=41.59.0.225
@@ -295,7 +294,6 @@ add list=t-pot_blacklist comment=t-pot address=92.18.119.243
 add list=t-pot_blacklist comment=t-pot address=92.255.165.103
 add list=t-pot_blacklist comment=t-pot address=93.173.70.89
 add list=t-pot_blacklist comment=t-pot address=93.183.94.249
-add list=t-pot_blacklist comment=t-pot address=94.102.49.125
 add list=t-pot_blacklist comment=t-pot address=94.243.14.234
 add list=t-pot_blacklist comment=t-pot address=94.7.186.55
 add list=t-pot_blacklist comment=t-pot address=95.163.236.136
