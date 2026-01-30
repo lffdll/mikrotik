@@ -45,7 +45,6 @@ add list=t-pot_blacklist comment=t-pot address=13.57.35.215
 add list=t-pot_blacklist comment=t-pot address=130.12.180.122
 add list=t-pot_blacklist comment=t-pot address=133.186.240.76
 add list=t-pot_blacklist comment=t-pot address=134.122.76.13
-add list=t-pot_blacklist comment=t-pot address=134.199.161.204
 add list=t-pot_blacklist comment=t-pot address=134.209.205.226
 add list=t-pot_blacklist comment=t-pot address=134.209.220.177
 add list=t-pot_blacklist comment=t-pot address=134.209.84.163
@@ -92,7 +91,6 @@ add list=t-pot_blacklist comment=t-pot address=159.223.211.70
 add list=t-pot_blacklist comment=t-pot address=159.223.221.5
 add list=t-pot_blacklist comment=t-pot address=159.223.221.62
 add list=t-pot_blacklist comment=t-pot address=159.223.31.52
-add list=t-pot_blacklist comment=t-pot address=159.65.200.226
 add list=t-pot_blacklist comment=t-pot address=159.89.97.23
 add list=t-pot_blacklist comment=t-pot address=161.35.149.227
 add list=t-pot_blacklist comment=t-pot address=161.35.209.244
@@ -188,6 +186,7 @@ add list=t-pot_blacklist comment=t-pot address=178.176.31.105
 add list=t-pot_blacklist comment=t-pot address=178.47.139.221
 add list=t-pot_blacklist comment=t-pot address=178.62.98.63
 add list=t-pot_blacklist comment=t-pot address=18.208.114.67
+add list=t-pot_blacklist comment=t-pot address=18.232.55.113
 add list=t-pot_blacklist comment=t-pot address=183.133.123.170
 add list=t-pot_blacklist comment=t-pot address=183.4.0.22
 add list=t-pot_blacklist comment=t-pot address=184.105.139.120
@@ -242,6 +241,7 @@ add list=t-pot_blacklist comment=t-pot address=203.25.213.72
 add list=t-pot_blacklist comment=t-pot address=204.76.203.18
 add list=t-pot_blacklist comment=t-pot address=204.76.203.212
 add list=t-pot_blacklist comment=t-pot address=204.76.203.219
+add list=t-pot_blacklist comment=t-pot address=204.76.203.93
 add list=t-pot_blacklist comment=t-pot address=205.169.39.46
 add list=t-pot_blacklist comment=t-pot address=206.188.196.82
 add list=t-pot_blacklist comment=t-pot address=212.24.49.222
