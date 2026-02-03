@@ -3,6 +3,7 @@ add list=t-pot_blacklist comment=t-pot address=1.64.107.137
 add list=t-pot_blacklist comment=t-pot address=1.83.125.153
 add list=t-pot_blacklist comment=t-pot address=1.94.46.74
 add list=t-pot_blacklist comment=t-pot address=100.29.192.10
+add list=t-pot_blacklist comment=t-pot address=101.96.119.114
 add list=t-pot_blacklist comment=t-pot address=102.45.138.188
 add list=t-pot_blacklist comment=t-pot address=103.121.104.196
 add list=t-pot_blacklist comment=t-pot address=103.196.9.212
@@ -88,6 +89,7 @@ add list=t-pot_blacklist comment=t-pot address=170.64.186.244
 add list=t-pot_blacklist comment=t-pot address=172.235.48.71
 add list=t-pot_blacklist comment=t-pot address=172.67.74.152
 add list=t-pot_blacklist comment=t-pot address=174.138.87.36
+add list=t-pot_blacklist comment=t-pot address=175.0.64.85
 add list=t-pot_blacklist comment=t-pot address=175.203.162.185
 add list=t-pot_blacklist comment=t-pot address=175.30.48.80
 add list=t-pot_blacklist comment=t-pot address=175.44.152.169
@@ -256,6 +258,7 @@ add list=t-pot_blacklist comment=t-pot address=59.120.105.236
 add list=t-pot_blacklist comment=t-pot address=59.183.113.69
 add list=t-pot_blacklist comment=t-pot address=59.91.41.184
 add list=t-pot_blacklist comment=t-pot address=60.185.233.57
+add list=t-pot_blacklist comment=t-pot address=60.188.195.159
 add list=t-pot_blacklist comment=t-pot address=61.166.210.20
 add list=t-pot_blacklist comment=t-pot address=61.220.133.120
 add list=t-pot_blacklist comment=t-pot address=61.228.138.86
@@ -280,6 +283,7 @@ add list=t-pot_blacklist comment=t-pot address=68.183.5.151
 add list=t-pot_blacklist comment=t-pot address=68.183.8.140
 add list=t-pot_blacklist comment=t-pot address=71.6.232.22
 add list=t-pot_blacklist comment=t-pot address=71.6.232.29
+add list=t-pot_blacklist comment=t-pot address=72.69.31.204
 add list=t-pot_blacklist comment=t-pot address=77.105.161.101
 add list=t-pot_blacklist comment=t-pot address=77.238.140.252
 add list=t-pot_blacklist comment=t-pot address=77.238.142.101
