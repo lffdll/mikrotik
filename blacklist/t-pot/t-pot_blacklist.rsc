@@ -101,6 +101,7 @@ add list=t-pot_blacklist comment=t-pot address=190.89.40.32
 add list=t-pot_blacklist comment=t-pot address=192.241.157.24
 add list=t-pot_blacklist comment=t-pot address=193.46.255.243
 add list=t-pot_blacklist comment=t-pot address=195.178.110.233
+add list=t-pot_blacklist comment=t-pot address=196.46.48.222
 add list=t-pot_blacklist comment=t-pot address=20.163.15.167
 add list=t-pot_blacklist comment=t-pot address=200.71.123.182
 add list=t-pot_blacklist comment=t-pot address=201.71.157.109
@@ -137,6 +138,7 @@ add list=t-pot_blacklist comment=t-pot address=3.174.113.68
 add list=t-pot_blacklist comment=t-pot address=31.162.74.58
 add list=t-pot_blacklist comment=t-pot address=31.186.132.26
 add list=t-pot_blacklist comment=t-pot address=34.120.127.130
+add list=t-pot_blacklist comment=t-pot address=34.72.239.183
 add list=t-pot_blacklist comment=t-pot address=34.95.113.255
 add list=t-pot_blacklist comment=t-pot address=35.216.189.16
 add list=t-pot_blacklist comment=t-pot address=35.216.195.77
@@ -144,6 +146,7 @@ add list=t-pot_blacklist comment=t-pot address=36.226.62.26
 add list=t-pot_blacklist comment=t-pot address=36.32.200.38
 add list=t-pot_blacklist comment=t-pot address=37.255.239.4
 add list=t-pot_blacklist comment=t-pot address=37.26.61.122
+add list=t-pot_blacklist comment=t-pot address=39.108.88.227
 add list=t-pot_blacklist comment=t-pot address=40.115.216.180
 add list=t-pot_blacklist comment=t-pot address=43.164.195.114
 add list=t-pot_blacklist comment=t-pot address=45.135.194.48
@@ -216,6 +219,7 @@ add list=t-pot_blacklist comment=t-pot address=8.6.112.9
 add list=t-pot_blacklist comment=t-pot address=82.114.228.244
 add list=t-pot_blacklist comment=t-pot address=82.146.42.63
 add list=t-pot_blacklist comment=t-pot address=82.208.123.31
+add list=t-pot_blacklist comment=t-pot address=84.42.76.177
 add list=t-pot_blacklist comment=t-pot address=84.53.242.208
 add list=t-pot_blacklist comment=t-pot address=85.103.78.170
 add list=t-pot_blacklist comment=t-pot address=85.142.100.138
