@@ -69,6 +69,7 @@ add list=t-pot_blacklist comment=t-pot address=15.204.249.235
 add list=t-pot_blacklist comment=t-pot address=151.243.18.207
 add list=t-pot_blacklist comment=t-pot address=152.42.131.199
 add list=t-pot_blacklist comment=t-pot address=152.42.141.175
+add list=t-pot_blacklist comment=t-pot address=152.42.141.54
 add list=t-pot_blacklist comment=t-pot address=153.160.137.245
 add list=t-pot_blacklist comment=t-pot address=154.6.197.43
 add list=t-pot_blacklist comment=t-pot address=156.238.229.19
@@ -140,12 +141,12 @@ add list=t-pot_blacklist comment=t-pot address=188.166.124.122
 add list=t-pot_blacklist comment=t-pot address=188.166.51.211
 add list=t-pot_blacklist comment=t-pot address=188.166.69.32
 add list=t-pot_blacklist comment=t-pot address=188.166.73.20
-add list=t-pot_blacklist comment=t-pot address=188.17.149.157
 add list=t-pot_blacklist comment=t-pot address=188.94.154.6
 add list=t-pot_blacklist comment=t-pot address=191.99.69.138
 add list=t-pot_blacklist comment=t-pot address=192.241.150.236
 add list=t-pot_blacklist comment=t-pot address=192.42.116.209
 add list=t-pot_blacklist comment=t-pot address=193.46.255.243
+add list=t-pot_blacklist comment=t-pot address=194.164.107.6
 add list=t-pot_blacklist comment=t-pot address=194.180.48.148
 add list=t-pot_blacklist comment=t-pot address=194.180.49.145
 add list=t-pot_blacklist comment=t-pot address=194.187.176.217
@@ -319,8 +320,8 @@ add list=t-pot_blacklist comment=t-pot address=91.92.241.59
 add list=t-pot_blacklist comment=t-pot address=92.100.52.84
 add list=t-pot_blacklist comment=t-pot address=92.124.132.245
 add list=t-pot_blacklist comment=t-pot address=92.87.115.24
+add list=t-pot_blacklist comment=t-pot address=94.174.10.9
 add list=t-pot_blacklist comment=t-pot address=94.200.118.180
 add list=t-pot_blacklist comment=t-pot address=94.243.11.145
-add list=t-pot_blacklist comment=t-pot address=95.167.182.189
 add list=t-pot_blacklist comment=t-pot address=95.179.81.217
 add list=t-pot_blacklist comment=t-pot address=98.87.55.220
