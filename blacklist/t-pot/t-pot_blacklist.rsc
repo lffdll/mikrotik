@@ -92,6 +92,7 @@ add list=t-pot_blacklist comment=t-pot address=165.22.205.137
 add list=t-pot_blacklist comment=t-pot address=165.232.165.152
 add list=t-pot_blacklist comment=t-pot address=167.172.46.57
 add list=t-pot_blacklist comment=t-pot address=167.172.47.193
+add list=t-pot_blacklist comment=t-pot address=167.71.70.88
 add list=t-pot_blacklist comment=t-pot address=167.71.79.28
 add list=t-pot_blacklist comment=t-pot address=167.99.6.209
 add list=t-pot_blacklist comment=t-pot address=172.104.93.159
@@ -118,6 +119,7 @@ add list=t-pot_blacklist comment=t-pot address=18.226.52.30
 add list=t-pot_blacklist comment=t-pot address=182.121.169.124
 add list=t-pot_blacklist comment=t-pot address=182.155.224.234
 add list=t-pot_blacklist comment=t-pot address=182.239.108.154
+add list=t-pot_blacklist comment=t-pot address=183.147.40.111
 add list=t-pot_blacklist comment=t-pot address=185.151.158.77
 add list=t-pot_blacklist comment=t-pot address=185.195.202.22
 add list=t-pot_blacklist comment=t-pot address=185.213.174.141
@@ -214,7 +216,6 @@ add list=t-pot_blacklist comment=t-pot address=51.15.127.156
 add list=t-pot_blacklist comment=t-pot address=51.15.227.77
 add list=t-pot_blacklist comment=t-pot address=51.159.64.198
 add list=t-pot_blacklist comment=t-pot address=58.47.47.215
-add list=t-pot_blacklist comment=t-pot address=59.11.85.11
 add list=t-pot_blacklist comment=t-pot address=59.3.202.159
 add list=t-pot_blacklist comment=t-pot address=60.177.88.133
 add list=t-pot_blacklist comment=t-pot address=60.182.176.132
@@ -227,7 +228,6 @@ add list=t-pot_blacklist comment=t-pot address=64.227.64.145
 add list=t-pot_blacklist comment=t-pot address=64.62.156.10
 add list=t-pot_blacklist comment=t-pot address=64.62.156.145
 add list=t-pot_blacklist comment=t-pot address=64.62.156.18
-add list=t-pot_blacklist comment=t-pot address=64.89.163.109
 add list=t-pot_blacklist comment=t-pot address=65.49.1.162
 add list=t-pot_blacklist comment=t-pot address=65.49.1.165
 add list=t-pot_blacklist comment=t-pot address=65.49.1.166
