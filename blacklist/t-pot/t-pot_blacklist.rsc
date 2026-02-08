@@ -19,7 +19,6 @@ add list=t-pot_blacklist comment=t-pot address=105.158.111.201
 add list=t-pot_blacklist comment=t-pot address=106.13.226.151
 add list=t-pot_blacklist comment=t-pot address=106.96.0.142
 add list=t-pot_blacklist comment=t-pot address=109.198.194.21
-add list=t-pot_blacklist comment=t-pot address=110.37.37.105
 add list=t-pot_blacklist comment=t-pot address=110.38.248.234
 add list=t-pot_blacklist comment=t-pot address=110.77.186.29
 add list=t-pot_blacklist comment=t-pot address=112.74.242.167
@@ -45,7 +44,6 @@ add list=t-pot_blacklist comment=t-pot address=123.232.217.121
 add list=t-pot_blacklist comment=t-pot address=125.229.201.108
 add list=t-pot_blacklist comment=t-pot address=130.12.180.35
 add list=t-pot_blacklist comment=t-pot address=130.12.180.80
-add list=t-pot_blacklist comment=t-pot address=131.72.45.143
 add list=t-pot_blacklist comment=t-pot address=134.199.198.136
 add list=t-pot_blacklist comment=t-pot address=138.199.19.35
 add list=t-pot_blacklist comment=t-pot address=139.196.39.169
@@ -151,6 +149,7 @@ add list=t-pot_blacklist comment=t-pot address=204.76.203.219
 add list=t-pot_blacklist comment=t-pot address=204.76.203.69
 add list=t-pot_blacklist comment=t-pot address=204.76.203.73
 add list=t-pot_blacklist comment=t-pot address=204.76.203.93
+add list=t-pot_blacklist comment=t-pot address=206.135.169.238
 add list=t-pot_blacklist comment=t-pot address=206.189.49.240
 add list=t-pot_blacklist comment=t-pot address=206.189.99.100
 add list=t-pot_blacklist comment=t-pot address=207.154.232.101
@@ -201,6 +200,7 @@ add list=t-pot_blacklist comment=t-pot address=45.156.129.87
 add list=t-pot_blacklist comment=t-pot address=45.156.87.221
 add list=t-pot_blacklist comment=t-pot address=45.194.92.25
 add list=t-pot_blacklist comment=t-pot address=45.65.9.60
+add list=t-pot_blacklist comment=t-pot address=45.79.186.176
 add list=t-pot_blacklist comment=t-pot address=47.236.202.83
 add list=t-pot_blacklist comment=t-pot address=47.82.4.98
 add list=t-pot_blacklist comment=t-pot address=49.130.223.8
