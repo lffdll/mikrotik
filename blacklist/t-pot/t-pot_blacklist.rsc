@@ -219,6 +219,7 @@ add list=t-pot_blacklist comment=t-pot address=5.189.223.251
 add list=t-pot_blacklist comment=t-pot address=52.14.121.140
 add list=t-pot_blacklist comment=t-pot address=58.212.237.118
 add list=t-pot_blacklist comment=t-pot address=58.56.96.54
+add list=t-pot_blacklist comment=t-pot address=59.23.30.237
 add list=t-pot_blacklist comment=t-pot address=59.91.43.127
 add list=t-pot_blacklist comment=t-pot address=60.16.201.158
 add list=t-pot_blacklist comment=t-pot address=61.166.210.4
@@ -237,7 +238,6 @@ add list=t-pot_blacklist comment=t-pot address=69.120.83.116
 add list=t-pot_blacklist comment=t-pot address=69.5.23.76
 add list=t-pot_blacklist comment=t-pot address=71.41.186.82
 add list=t-pot_blacklist comment=t-pot address=72.80.48.52
-add list=t-pot_blacklist comment=t-pot address=74.7.228.0
 add list=t-pot_blacklist comment=t-pot address=74.7.243.205
 add list=t-pot_blacklist comment=t-pot address=77.105.161.101
 add list=t-pot_blacklist comment=t-pot address=77.235.19.220
@@ -248,6 +248,7 @@ add list=t-pot_blacklist comment=t-pot address=77.238.143.251
 add list=t-pot_blacklist comment=t-pot address=77.247.111.20
 add list=t-pot_blacklist comment=t-pot address=77.90.185.16
 add list=t-pot_blacklist comment=t-pot address=77.90.185.46
+add list=t-pot_blacklist comment=t-pot address=78.128.114.118
 add list=t-pot_blacklist comment=t-pot address=78.128.114.126
 add list=t-pot_blacklist comment=t-pot address=78.128.114.38
 add list=t-pot_blacklist comment=t-pot address=78.167.209.60
@@ -290,6 +291,7 @@ add list=t-pot_blacklist comment=t-pot address=85.142.100.136
 add list=t-pot_blacklist comment=t-pot address=85.142.100.138
 add list=t-pot_blacklist comment=t-pot address=85.142.100.141
 add list=t-pot_blacklist comment=t-pot address=85.142.100.142
+add list=t-pot_blacklist comment=t-pot address=85.192.48.189
 add list=t-pot_blacklist comment=t-pot address=85.203.39.57
 add list=t-pot_blacklist comment=t-pot address=85.217.140.28
 add list=t-pot_blacklist comment=t-pot address=85.238.112.161
