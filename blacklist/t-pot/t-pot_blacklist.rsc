@@ -89,7 +89,6 @@ add list=t-pot_blacklist comment=t-pot address=165.245.135.12
 add list=t-pot_blacklist comment=t-pot address=165.245.142.63
 add list=t-pot_blacklist comment=t-pot address=167.172.40.66
 add list=t-pot_blacklist comment=t-pot address=167.172.47.220
-add list=t-pot_blacklist comment=t-pot address=167.99.210.17
 add list=t-pot_blacklist comment=t-pot address=169.255.135.5
 add list=t-pot_blacklist comment=t-pot address=171.226.66.237
 add list=t-pot_blacklist comment=t-pot address=171.33.66.8
@@ -159,7 +158,6 @@ add list=t-pot_blacklist comment=t-pot address=220.167.233.220
 add list=t-pot_blacklist comment=t-pot address=220.210.186.16
 add list=t-pot_blacklist comment=t-pot address=223.122.119.16
 add list=t-pot_blacklist comment=t-pot address=27.124.20.103
-add list=t-pot_blacklist comment=t-pot address=27.202.169.114
 add list=t-pot_blacklist comment=t-pot address=27.202.44.184
 add list=t-pot_blacklist comment=t-pot address=27.254.163.14
 add list=t-pot_blacklist comment=t-pot address=27.79.4.153
@@ -244,7 +242,6 @@ add list=t-pot_blacklist comment=t-pot address=66.132.153.61
 add list=t-pot_blacklist comment=t-pot address=68.154.54.35
 add list=t-pot_blacklist comment=t-pot address=71.41.186.82
 add list=t-pot_blacklist comment=t-pot address=72.80.48.52
-add list=t-pot_blacklist comment=t-pot address=74.7.243.205
 add list=t-pot_blacklist comment=t-pot address=77.105.161.101
 add list=t-pot_blacklist comment=t-pot address=77.235.19.220
 add list=t-pot_blacklist comment=t-pot address=77.238.142.101
@@ -306,7 +303,6 @@ add list=t-pot_blacklist comment=t-pot address=89.12.89.91
 add list=t-pot_blacklist comment=t-pot address=89.219.180.94
 add list=t-pot_blacklist comment=t-pot address=89.236.217.150
 add list=t-pot_blacklist comment=t-pot address=89.79.36.109
-add list=t-pot_blacklist comment=t-pot address=90.174.105.214
 add list=t-pot_blacklist comment=t-pot address=91.149.255.200
 add list=t-pot_blacklist comment=t-pot address=91.196.152.23
 add list=t-pot_blacklist comment=t-pot address=91.200.151.12
