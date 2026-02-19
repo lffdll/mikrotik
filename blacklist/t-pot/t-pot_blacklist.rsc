@@ -45,6 +45,7 @@ add list=t-pot_blacklist comment=t-pot address=109.122.196.176
 add list=t-pot_blacklist comment=t-pot address=109.205.211.189
 add list=t-pot_blacklist comment=t-pot address=109.205.211.190
 add list=t-pot_blacklist comment=t-pot address=109.205.211.97
+add list=t-pot_blacklist comment=t-pot address=110.243.30.23
 add list=t-pot_blacklist comment=t-pot address=111.228.3.110
 add list=t-pot_blacklist comment=t-pot address=111.229.16.223
 add list=t-pot_blacklist comment=t-pot address=111.230.105.254
@@ -122,6 +123,7 @@ add list=t-pot_blacklist comment=t-pot address=130.12.180.106
 add list=t-pot_blacklist comment=t-pot address=130.12.180.111
 add list=t-pot_blacklist comment=t-pot address=130.12.180.35
 add list=t-pot_blacklist comment=t-pot address=130.12.180.58
+add list=t-pot_blacklist comment=t-pot address=130.213.14.73
 add list=t-pot_blacklist comment=t-pot address=131.0.245.253
 add list=t-pot_blacklist comment=t-pot address=131.196.22.197
 add list=t-pot_blacklist comment=t-pot address=134.199.198.136
@@ -153,6 +155,7 @@ add list=t-pot_blacklist comment=t-pot address=147.185.132.99
 add list=t-pot_blacklist comment=t-pot address=147.45.96.141
 add list=t-pot_blacklist comment=t-pot address=147.93.181.74
 add list=t-pot_blacklist comment=t-pot address=147.93.182.218
+add list=t-pot_blacklist comment=t-pot address=149.104.5.132
 add list=t-pot_blacklist comment=t-pot address=149.50.55.1
 add list=t-pot_blacklist comment=t-pot address=149.50.96.62
 add list=t-pot_blacklist comment=t-pot address=149.88.67.125
@@ -473,6 +476,7 @@ add list=t-pot_blacklist comment=t-pot address=91.196.152.152
 add list=t-pot_blacklist comment=t-pot address=91.196.152.55
 add list=t-pot_blacklist comment=t-pot address=91.196.152.63
 add list=t-pot_blacklist comment=t-pot address=91.230.168.167
+add list=t-pot_blacklist comment=t-pot address=91.92.241.59
 add list=t-pot_blacklist comment=t-pot address=91.92.242.191
 add list=t-pot_blacklist comment=t-pot address=91.98.42.129
 add list=t-pot_blacklist comment=t-pot address=92.124.132.245
