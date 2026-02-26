@@ -131,6 +131,7 @@ add list=t-pot_blacklist comment=t-pot address=140.83.55.45
 add list=t-pot_blacklist comment=t-pot address=141.76.2.4
 add list=t-pot_blacklist comment=t-pot address=142.93.141.252
 add list=t-pot_blacklist comment=t-pot address=142.93.145.126
+add list=t-pot_blacklist comment=t-pot address=143.110.180.175
 add list=t-pot_blacklist comment=t-pot address=143.198.92.251
 add list=t-pot_blacklist comment=t-pot address=143.244.60.199
 add list=t-pot_blacklist comment=t-pot address=144.172.97.17
@@ -246,6 +247,7 @@ add list=t-pot_blacklist comment=t-pot address=222.176.200.153
 add list=t-pot_blacklist comment=t-pot address=222.184.172.24
 add list=t-pot_blacklist comment=t-pot address=223.123.43.2
 add list=t-pot_blacklist comment=t-pot address=223.17.6.188
+add list=t-pot_blacklist comment=t-pot address=23.95.132.45
 add list=t-pot_blacklist comment=t-pot address=27.4.75.219
 add list=t-pot_blacklist comment=t-pot address=27.71.20.153
 add list=t-pot_blacklist comment=t-pot address=3.164.240.119
@@ -270,6 +272,7 @@ add list=t-pot_blacklist comment=t-pot address=4.210.177.135
 add list=t-pot_blacklist comment=t-pot address=4.246.247.157
 add list=t-pot_blacklist comment=t-pot address=41.208.141.242
 add list=t-pot_blacklist comment=t-pot address=41.59.134.106
+add list=t-pot_blacklist comment=t-pot address=41.59.168.203
 add list=t-pot_blacklist comment=t-pot address=41.59.41.137
 add list=t-pot_blacklist comment=t-pot address=41.59.42.229
 add list=t-pot_blacklist comment=t-pot address=41.59.5.122
@@ -309,6 +312,7 @@ add list=t-pot_blacklist comment=t-pot address=46.72.52.186
 add list=t-pot_blacklist comment=t-pot address=47.101.137.46
 add list=t-pot_blacklist comment=t-pot address=47.117.3.109
 add list=t-pot_blacklist comment=t-pot address=47.243.115.50
+add list=t-pot_blacklist comment=t-pot address=47.253.218.55
 add list=t-pot_blacklist comment=t-pot address=49.51.249.62
 add list=t-pot_blacklist comment=t-pot address=5.181.20.226
 add list=t-pot_blacklist comment=t-pot address=5.189.223.251
