@@ -24,7 +24,6 @@ add list=t-pot_blacklist comment=t-pot address=103.228.151.56
 add list=t-pot_blacklist comment=t-pot address=103.26.82.50
 add list=t-pot_blacklist comment=t-pot address=103.27.132.56
 add list=t-pot_blacklist comment=t-pot address=103.73.64.73
-add list=t-pot_blacklist comment=t-pot address=103.74.20.95
 add list=t-pot_blacklist comment=t-pot address=103.99.36.230
 add list=t-pot_blacklist comment=t-pot address=104.140.148.70
 add list=t-pot_blacklist comment=t-pot address=104.153.208.193
@@ -183,6 +182,7 @@ add list=t-pot_blacklist comment=t-pot address=171.231.187.178
 add list=t-pot_blacklist comment=t-pot address=171.237.176.158
 add list=t-pot_blacklist comment=t-pot address=172.236.124.107
 add list=t-pot_blacklist comment=t-pot address=172.245.135.89
+add list=t-pot_blacklist comment=t-pot address=172.83.157.221
 add list=t-pot_blacklist comment=t-pot address=172.93.221.89
 add list=t-pot_blacklist comment=t-pot address=173.249.206.248
 add list=t-pot_blacklist comment=t-pot address=175.107.211.37
@@ -201,6 +201,7 @@ add list=t-pot_blacklist comment=t-pot address=18.188.83.55
 add list=t-pot_blacklist comment=t-pot address=18.216.246.231
 add list=t-pot_blacklist comment=t-pot address=18.227.107.145
 add list=t-pot_blacklist comment=t-pot address=180.131.167.125
+add list=t-pot_blacklist comment=t-pot address=180.177.129.201
 add list=t-pot_blacklist comment=t-pot address=181.174.142.161
 add list=t-pot_blacklist comment=t-pot address=181.214.133.189
 add list=t-pot_blacklist comment=t-pot address=182.103.206.140
@@ -460,6 +461,7 @@ add list=t-pot_blacklist comment=t-pot address=87.251.67.93
 add list=t-pot_blacklist comment=t-pot address=88.151.33.168
 add list=t-pot_blacklist comment=t-pot address=88.210.63.182
 add list=t-pot_blacklist comment=t-pot address=88.210.63.88
+add list=t-pot_blacklist comment=t-pot address=89.110.97.157
 add list=t-pot_blacklist comment=t-pot address=89.117.1.35
 add list=t-pot_blacklist comment=t-pot address=89.23.123.5
 add list=t-pot_blacklist comment=t-pot address=89.32.41.172
