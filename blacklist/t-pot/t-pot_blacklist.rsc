@@ -202,6 +202,7 @@ add list=t-pot_blacklist comment=t-pot address=165.22.10.65
 add list=t-pot_blacklist comment=t-pot address=165.22.188.199
 add list=t-pot_blacklist comment=t-pot address=165.22.215.56
 add list=t-pot_blacklist comment=t-pot address=165.22.22.214
+add list=t-pot_blacklist comment=t-pot address=165.22.226.80
 add list=t-pot_blacklist comment=t-pot address=165.22.227.255
 add list=t-pot_blacklist comment=t-pot address=165.22.68.255
 add list=t-pot_blacklist comment=t-pot address=165.227.227.80
@@ -231,7 +232,6 @@ add list=t-pot_blacklist comment=t-pot address=170.64.228.116
 add list=t-pot_blacklist comment=t-pot address=170.64.232.43
 add list=t-pot_blacklist comment=t-pot address=170.64.236.47
 add list=t-pot_blacklist comment=t-pot address=170.64.236.88
-add list=t-pot_blacklist comment=t-pot address=172.105.98.178
 add list=t-pot_blacklist comment=t-pot address=172.172.30.70
 add list=t-pot_blacklist comment=t-pot address=172.245.135.89
 add list=t-pot_blacklist comment=t-pot address=172.245.21.30
@@ -485,7 +485,6 @@ add list=t-pot_blacklist comment=t-pot address=65.109.214.27
 add list=t-pot_blacklist comment=t-pot address=65.49.1.132
 add list=t-pot_blacklist comment=t-pot address=66.103.206.9
 add list=t-pot_blacklist comment=t-pot address=66.132.153.20
-add list=t-pot_blacklist comment=t-pot address=66.167.166.175
 add list=t-pot_blacklist comment=t-pot address=66.29.149.76
 add list=t-pot_blacklist comment=t-pot address=68.183.223.72
 add list=t-pot_blacklist comment=t-pot address=68.183.23.25
@@ -508,7 +507,6 @@ add list=t-pot_blacklist comment=t-pot address=77.239.105.228
 add list=t-pot_blacklist comment=t-pot address=77.91.127.110
 add list=t-pot_blacklist comment=t-pot address=78.40.111.61
 add list=t-pot_blacklist comment=t-pot address=79.124.62.53
-add list=t-pot_blacklist comment=t-pot address=79.57.169.131
 add list=t-pot_blacklist comment=t-pot address=8.219.146.89
 add list=t-pot_blacklist comment=t-pot address=8.219.177.56
 add list=t-pot_blacklist comment=t-pot address=8.220.209.206
