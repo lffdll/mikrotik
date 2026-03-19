@@ -56,10 +56,10 @@ add list=t-pot_blacklist comment=t-pot address=113.44.158.58
 add list=t-pot_blacklist comment=t-pot address=113.64.211.10
 add list=t-pot_blacklist comment=t-pot address=115.191.28.64
 add list=t-pot_blacklist comment=t-pot address=115.60.215.192
+add list=t-pot_blacklist comment=t-pot address=116.110.0.6
 add list=t-pot_blacklist comment=t-pot address=116.110.18.236
 add list=t-pot_blacklist comment=t-pot address=116.110.18.249
 add list=t-pot_blacklist comment=t-pot address=116.110.21.177
-add list=t-pot_blacklist comment=t-pot address=116.110.219.107
 add list=t-pot_blacklist comment=t-pot address=116.193.150.157
 add list=t-pot_blacklist comment=t-pot address=116.204.156.167
 add list=t-pot_blacklist comment=t-pot address=117.248.105.244
@@ -250,6 +250,7 @@ add list=t-pot_blacklist comment=t-pot address=192.3.250.115
 add list=t-pot_blacklist comment=t-pot address=192.3.33.110
 add list=t-pot_blacklist comment=t-pot address=192.3.81.246
 add list=t-pot_blacklist comment=t-pot address=192.3.91.166
+add list=t-pot_blacklist comment=t-pot address=193.233.164.211
 add list=t-pot_blacklist comment=t-pot address=193.233.171.84
 add list=t-pot_blacklist comment=t-pot address=193.32.249.158
 add list=t-pot_blacklist comment=t-pot address=194.163.159.77
@@ -287,9 +288,10 @@ add list=t-pot_blacklist comment=t-pot address=212.100.184.27
 add list=t-pot_blacklist comment=t-pot address=213.97.20.0
 add list=t-pot_blacklist comment=t-pot address=216.39.249.44
 add list=t-pot_blacklist comment=t-pot address=217.216.48.10
-add list=t-pot_blacklist comment=t-pot address=218.108.212.174
+add list=t-pot_blacklist comment=t-pot address=220.121.234.193
 add list=t-pot_blacklist comment=t-pot address=222.222.168.9
 add list=t-pot_blacklist comment=t-pot address=223.123.42.185
+add list=t-pot_blacklist comment=t-pot address=223.123.43.71
 add list=t-pot_blacklist comment=t-pot address=23.111.75.15
 add list=t-pot_blacklist comment=t-pot address=23.94.201.250
 add list=t-pot_blacklist comment=t-pot address=3.164.240.73
