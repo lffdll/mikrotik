@@ -62,6 +62,7 @@ add list=t-pot_blacklist comment=t-pot address=108.165.230.100
 add list=t-pot_blacklist comment=t-pot address=108.165.230.167
 add list=t-pot_blacklist comment=t-pot address=108.165.230.168
 add list=t-pot_blacklist comment=t-pot address=108.165.230.186
+add list=t-pot_blacklist comment=t-pot address=108.165.230.227
 add list=t-pot_blacklist comment=t-pot address=108.165.230.33
 add list=t-pot_blacklist comment=t-pot address=108.165.230.43
 add list=t-pot_blacklist comment=t-pot address=108.165.230.54
@@ -118,6 +119,7 @@ add list=t-pot_blacklist comment=t-pot address=135.148.160.225
 add list=t-pot_blacklist comment=t-pot address=137.184.170.37
 add list=t-pot_blacklist comment=t-pot address=139.135.41.11
 add list=t-pot_blacklist comment=t-pot address=139.202.215.204
+add list=t-pot_blacklist comment=t-pot address=139.99.113.216
 add list=t-pot_blacklist comment=t-pot address=139.99.82.70
 add list=t-pot_blacklist comment=t-pot address=14.164.187.25
 add list=t-pot_blacklist comment=t-pot address=14.177.234.3
@@ -352,7 +354,6 @@ add list=t-pot_blacklist comment=t-pot address=36.26.82.246
 add list=t-pot_blacklist comment=t-pot address=36.64.227.134
 add list=t-pot_blacklist comment=t-pot address=37.148.132.205
 add list=t-pot_blacklist comment=t-pot address=37.148.132.83
-add list=t-pot_blacklist comment=t-pot address=37.148.133.247
 add list=t-pot_blacklist comment=t-pot address=37.247.49.82
 add list=t-pot_blacklist comment=t-pot address=38.135.24.223
 add list=t-pot_blacklist comment=t-pot address=38.250.116.234
@@ -386,7 +387,6 @@ add list=t-pot_blacklist comment=t-pot address=45.156.129.141
 add list=t-pot_blacklist comment=t-pot address=45.156.129.54
 add list=t-pot_blacklist comment=t-pot address=45.156.131.12
 add list=t-pot_blacklist comment=t-pot address=45.156.131.7
-add list=t-pot_blacklist comment=t-pot address=45.156.87.239
 add list=t-pot_blacklist comment=t-pot address=45.41.207.39
 add list=t-pot_blacklist comment=t-pot address=45.76.69.64
 add list=t-pot_blacklist comment=t-pot address=45.77.170.215
