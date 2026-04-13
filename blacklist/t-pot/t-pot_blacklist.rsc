@@ -59,16 +59,19 @@ add list=t-pot_blacklist comment=t-pot address=115.190.16.6
 add list=t-pot_blacklist comment=t-pot address=115.190.244.156
 add list=t-pot_blacklist comment=t-pot address=115.196.8.33
 add list=t-pot_blacklist comment=t-pot address=116.110.18.56
+add list=t-pot_blacklist comment=t-pot address=116.110.214.243
 add list=t-pot_blacklist comment=t-pot address=116.63.205.218
 add list=t-pot_blacklist comment=t-pot address=116.99.172.0
 add list=t-pot_blacklist comment=t-pot address=118.193.56.172
 add list=t-pot_blacklist comment=t-pot address=118.196.73.14
 add list=t-pot_blacklist comment=t-pot address=120.48.106.235
 add list=t-pot_blacklist comment=t-pot address=120.48.4.164
+add list=t-pot_blacklist comment=t-pot address=121.137.131.78
 add list=t-pot_blacklist comment=t-pot address=121.167.56.61
 add list=t-pot_blacklist comment=t-pot address=121.29.4.103
 add list=t-pot_blacklist comment=t-pot address=122.166.167.154
 add list=t-pot_blacklist comment=t-pot address=122.96.31.96
+add list=t-pot_blacklist comment=t-pot address=124.253.21.249
 add list=t-pot_blacklist comment=t-pot address=125.124.183.254
 add list=t-pot_blacklist comment=t-pot address=128.173.237.5
 add list=t-pot_blacklist comment=t-pot address=13.222.129.81
@@ -114,7 +117,6 @@ add list=t-pot_blacklist comment=t-pot address=154.37.79.76
 add list=t-pot_blacklist comment=t-pot address=156.253.12.51
 add list=t-pot_blacklist comment=t-pot address=157.230.178.76
 add list=t-pot_blacklist comment=t-pot address=157.245.248.137
-add list=t-pot_blacklist comment=t-pot address=157.245.248.44
 add list=t-pot_blacklist comment=t-pot address=157.254.18.106
 add list=t-pot_blacklist comment=t-pot address=157.254.223.77
 add list=t-pot_blacklist comment=t-pot address=158.173.3.136
@@ -200,7 +202,6 @@ add list=t-pot_blacklist comment=t-pot address=185.242.3.74
 add list=t-pot_blacklist comment=t-pot address=185.243.5.73
 add list=t-pot_blacklist comment=t-pot address=185.45.193.231
 add list=t-pot_blacklist comment=t-pot address=185.82.202.141
-add list=t-pot_blacklist comment=t-pot address=189.55.4.4
 add list=t-pot_blacklist comment=t-pot address=190.133.135.162
 add list=t-pot_blacklist comment=t-pot address=191.101.51.162
 add list=t-pot_blacklist comment=t-pot address=192.159.101.166
@@ -272,6 +273,7 @@ add list=t-pot_blacklist comment=t-pot address=35.229.21.120
 add list=t-pot_blacklist comment=t-pot address=35.235.86.4
 add list=t-pot_blacklist comment=t-pot address=36.140.197.218
 add list=t-pot_blacklist comment=t-pot address=36.229.116.88
+add list=t-pot_blacklist comment=t-pot address=36.234.63.85
 add list=t-pot_blacklist comment=t-pot address=37.10.113.213
 add list=t-pot_blacklist comment=t-pot address=37.148.132.190
 add list=t-pot_blacklist comment=t-pot address=37.148.132.208
@@ -371,7 +373,6 @@ add list=t-pot_blacklist comment=t-pot address=43.228.157.195
 add list=t-pot_blacklist comment=t-pot address=43.228.157.196
 add list=t-pot_blacklist comment=t-pot address=43.228.157.197
 add list=t-pot_blacklist comment=t-pot address=43.228.157.198
-add list=t-pot_blacklist comment=t-pot address=43.228.157.199
 add list=t-pot_blacklist comment=t-pot address=43.228.157.20
 add list=t-pot_blacklist comment=t-pot address=43.228.157.200
 add list=t-pot_blacklist comment=t-pot address=43.228.157.201
@@ -464,9 +465,11 @@ add list=t-pot_blacklist comment=t-pot address=82.29.131.232
 add list=t-pot_blacklist comment=t-pot address=82.29.67.87
 add list=t-pot_blacklist comment=t-pot address=84.247.165.192
 add list=t-pot_blacklist comment=t-pot address=84.53.242.208
+add list=t-pot_blacklist comment=t-pot address=84.8.107.159
 add list=t-pot_blacklist comment=t-pot address=85.142.100.105
 add list=t-pot_blacklist comment=t-pot address=85.142.100.106
 add list=t-pot_blacklist comment=t-pot address=85.142.100.5
+add list=t-pot_blacklist comment=t-pot address=85.24.194.91
 add list=t-pot_blacklist comment=t-pot address=87.120.107.235
 add list=t-pot_blacklist comment=t-pot address=87.120.107.32
 add list=t-pot_blacklist comment=t-pot address=87.228.70.20
