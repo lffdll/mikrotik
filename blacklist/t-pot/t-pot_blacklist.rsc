@@ -342,7 +342,6 @@ add list=t-pot_blacklist comment=t-pot address=51.15.116.73
 add list=t-pot_blacklist comment=t-pot address=51.15.117.166
 add list=t-pot_blacklist comment=t-pot address=51.15.118.86
 add list=t-pot_blacklist comment=t-pot address=51.15.120.127
-add list=t-pot_blacklist comment=t-pot address=51.15.122.227
 add list=t-pot_blacklist comment=t-pot address=51.15.125.14
 add list=t-pot_blacklist comment=t-pot address=51.15.208.24
 add list=t-pot_blacklist comment=t-pot address=51.15.218.86
