@@ -166,7 +166,6 @@ add list=t-pot_blacklist comment=t-pot address=138.121.104.211
 add list=t-pot_blacklist comment=t-pot address=138.124.187.190
 add list=t-pot_blacklist comment=t-pot address=138.124.31.169
 add list=t-pot_blacklist comment=t-pot address=139.224.136.217
-add list=t-pot_blacklist comment=t-pot address=139.28.220.35
 add list=t-pot_blacklist comment=t-pot address=139.59.28.253
 add list=t-pot_blacklist comment=t-pot address=14.102.239.89
 add list=t-pot_blacklist comment=t-pot address=14.103.120.70
@@ -355,7 +354,6 @@ add list=t-pot_blacklist comment=t-pot address=198.12.118.122
 add list=t-pot_blacklist comment=t-pot address=198.23.215.88
 add list=t-pot_blacklist comment=t-pot address=198.46.218.103
 add list=t-pot_blacklist comment=t-pot address=198.46.245.163
-add list=t-pot_blacklist comment=t-pot address=2.26.137.187
 add list=t-pot_blacklist comment=t-pot address=2.26.61.107
 add list=t-pot_blacklist comment=t-pot address=2.26.98.67
 add list=t-pot_blacklist comment=t-pot address=2.27.8.154
@@ -521,7 +519,6 @@ add list=t-pot_blacklist comment=t-pot address=47.117.3.109
 add list=t-pot_blacklist comment=t-pot address=47.250.134.186
 add list=t-pot_blacklist comment=t-pot address=47.76.69.35
 add list=t-pot_blacklist comment=t-pot address=47.79.144.115
-add list=t-pot_blacklist comment=t-pot address=49.143.16.204
 add list=t-pot_blacklist comment=t-pot address=49.37.201.214
 add list=t-pot_blacklist comment=t-pot address=49.37.203.216
 add list=t-pot_blacklist comment=t-pot address=49.51.249.62
@@ -623,6 +620,7 @@ add list=t-pot_blacklist comment=t-pot address=88.119.169.230
 add list=t-pot_blacklist comment=t-pot address=88.151.33.168
 add list=t-pot_blacklist comment=t-pot address=88.218.205.157
 add list=t-pot_blacklist comment=t-pot address=89.110.97.157
+add list=t-pot_blacklist comment=t-pot address=89.117.2.214
 add list=t-pot_blacklist comment=t-pot address=89.190.156.34
 add list=t-pot_blacklist comment=t-pot address=89.252.185.84
 add list=t-pot_blacklist comment=t-pot address=91.107.249.2
