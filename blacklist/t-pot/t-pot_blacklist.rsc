@@ -164,6 +164,7 @@ add list=t-pot_blacklist comment=t-pot address=139.59.28.253
 add list=t-pot_blacklist comment=t-pot address=139.60.161.42
 add list=t-pot_blacklist comment=t-pot address=14.1.104.251
 add list=t-pot_blacklist comment=t-pot address=14.102.239.89
+add list=t-pot_blacklist comment=t-pot address=14.103.78.102
 add list=t-pot_blacklist comment=t-pot address=14.116.206.75
 add list=t-pot_blacklist comment=t-pot address=14.37.160.15
 add list=t-pot_blacklist comment=t-pot address=140.174.188.97
@@ -194,7 +195,6 @@ add list=t-pot_blacklist comment=t-pot address=144.7.108.132
 add list=t-pot_blacklist comment=t-pot address=144.76.135.165
 add list=t-pot_blacklist comment=t-pot address=145.239.200.78
 add list=t-pot_blacklist comment=t-pot address=145.249.106.226
-add list=t-pot_blacklist comment=t-pot address=146.185.215.117
 add list=t-pot_blacklist comment=t-pot address=147.182.163.109
 add list=t-pot_blacklist comment=t-pot address=147.224.137.108
 add list=t-pot_blacklist comment=t-pot address=147.50.231.36
@@ -436,6 +436,7 @@ add list=t-pot_blacklist comment=t-pot address=23.94.203.66
 add list=t-pot_blacklist comment=t-pot address=23.95.35.119
 add list=t-pot_blacklist comment=t-pot address=27.254.144.47
 add list=t-pot_blacklist comment=t-pot address=3.15.232.67
+add list=t-pot_blacklist comment=t-pot address=3.151.241.153
 add list=t-pot_blacklist comment=t-pot address=3.174.113.38
 add list=t-pot_blacklist comment=t-pot address=3.174.113.68
 add list=t-pot_blacklist comment=t-pot address=31.131.27.108
@@ -477,7 +478,6 @@ add list=t-pot_blacklist comment=t-pot address=37.228.129.144
 add list=t-pot_blacklist comment=t-pot address=37.44.238.107
 add list=t-pot_blacklist comment=t-pot address=38.180.248.127
 add list=t-pot_blacklist comment=t-pot address=38.59.228.93
-add list=t-pot_blacklist comment=t-pot address=38.60.223.91
 add list=t-pot_blacklist comment=t-pot address=38.7.201.124
 add list=t-pot_blacklist comment=t-pot address=38.76.31.20
 add list=t-pot_blacklist comment=t-pot address=39.104.64.139
