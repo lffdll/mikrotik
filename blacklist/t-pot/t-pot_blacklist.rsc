@@ -97,7 +97,6 @@ add list=t-pot_blacklist comment=t-pot address=141.11.88.103
 add list=t-pot_blacklist comment=t-pot address=141.11.88.108
 add list=t-pot_blacklist comment=t-pot address=141.148.244.9
 add list=t-pot_blacklist comment=t-pot address=141.76.2.4
-add list=t-pot_blacklist comment=t-pot address=141.95.34.214
 add list=t-pot_blacklist comment=t-pot address=142.44.247.134
 add list=t-pot_blacklist comment=t-pot address=143.198.153.185
 add list=t-pot_blacklist comment=t-pot address=143.244.141.248
@@ -126,6 +125,7 @@ add list=t-pot_blacklist comment=t-pot address=167.114.156.169
 add list=t-pot_blacklist comment=t-pot address=167.172.108.197
 add list=t-pot_blacklist comment=t-pot address=167.57.178.242
 add list=t-pot_blacklist comment=t-pot address=167.99.232.174
+add list=t-pot_blacklist comment=t-pot address=168.194.64.3
 add list=t-pot_blacklist comment=t-pot address=168.196.58.173
 add list=t-pot_blacklist comment=t-pot address=170.187.251.164
 add list=t-pot_blacklist comment=t-pot address=171.231.187.239
@@ -199,6 +199,8 @@ add list=t-pot_blacklist comment=t-pot address=190.220.172.154
 add list=t-pot_blacklist comment=t-pot address=192.210.233.234
 add list=t-pot_blacklist comment=t-pot address=192.227.178.250
 add list=t-pot_blacklist comment=t-pot address=192.227.229.38
+add list=t-pot_blacklist comment=t-pot address=192.250.227.24
+add list=t-pot_blacklist comment=t-pot address=192.3.145.26
 add list=t-pot_blacklist comment=t-pot address=192.3.206.66
 add list=t-pot_blacklist comment=t-pot address=192.3.222.43
 add list=t-pot_blacklist comment=t-pot address=192.3.248.179
@@ -331,7 +333,6 @@ add list=t-pot_blacklist comment=t-pot address=45.179.90.186
 add list=t-pot_blacklist comment=t-pot address=45.194.67.2
 add list=t-pot_blacklist comment=t-pot address=45.205.1.243
 add list=t-pot_blacklist comment=t-pot address=45.205.1.244
-add list=t-pot_blacklist comment=t-pot address=45.205.1.247
 add list=t-pot_blacklist comment=t-pot address=45.205.1.73
 add list=t-pot_blacklist comment=t-pot address=45.234.92.204
 add list=t-pot_blacklist comment=t-pot address=45.38.139.21
@@ -356,6 +357,7 @@ add list=t-pot_blacklist comment=t-pot address=5.100.252.208
 add list=t-pot_blacklist comment=t-pot address=5.133.120.187
 add list=t-pot_blacklist comment=t-pot address=5.135.167.5
 add list=t-pot_blacklist comment=t-pot address=5.232.161.69
+add list=t-pot_blacklist comment=t-pot address=50.6.197.105
 add list=t-pot_blacklist comment=t-pot address=51.104.32.74
 add list=t-pot_blacklist comment=t-pot address=51.158.248.123
 add list=t-pot_blacklist comment=t-pot address=51.75.104.160
@@ -410,7 +412,6 @@ add list=t-pot_blacklist comment=t-pot address=80.117.14.110
 add list=t-pot_blacklist comment=t-pot address=80.66.83.43
 add list=t-pot_blacklist comment=t-pot address=80.94.92.55
 add list=t-pot_blacklist comment=t-pot address=80.94.95.43
-add list=t-pot_blacklist comment=t-pot address=81.176.229.39
 add list=t-pot_blacklist comment=t-pot address=81.70.224.28
 add list=t-pot_blacklist comment=t-pot address=82.152.132.24
 add list=t-pot_blacklist comment=t-pot address=82.165.170.203
@@ -419,13 +420,12 @@ add list=t-pot_blacklist comment=t-pot address=82.223.15.252
 add list=t-pot_blacklist comment=t-pot address=83.168.69.141
 add list=t-pot_blacklist comment=t-pot address=83.239.76.158
 add list=t-pot_blacklist comment=t-pot address=84.233.216.142
-add list=t-pot_blacklist comment=t-pot address=85.121.120.155
-add list=t-pot_blacklist comment=t-pot address=85.142.100.137
 add list=t-pot_blacklist comment=t-pot address=85.15.66.181
 add list=t-pot_blacklist comment=t-pot address=85.17.9.213
 add list=t-pot_blacklist comment=t-pot address=85.173.112.41
 add list=t-pot_blacklist comment=t-pot address=85.217.140.36
 add list=t-pot_blacklist comment=t-pot address=86.111.187.163
+add list=t-pot_blacklist comment=t-pot address=86.54.25.235
 add list=t-pot_blacklist comment=t-pot address=87.120.107.235
 add list=t-pot_blacklist comment=t-pot address=89.249.248.185
 add list=t-pot_blacklist comment=t-pot address=89.34.96.151
