@@ -136,6 +136,7 @@ add list=t-pot_blacklist comment=t-pot address=140.245.40.156
 add list=t-pot_blacklist comment=t-pot address=140.245.58.29
 add list=t-pot_blacklist comment=t-pot address=140.246.61.93
 add list=t-pot_blacklist comment=t-pot address=140.82.113.6
+add list=t-pot_blacklist comment=t-pot address=140.82.121.5
 add list=t-pot_blacklist comment=t-pot address=140.82.121.6
 add list=t-pot_blacklist comment=t-pot address=141.11.62.188
 add list=t-pot_blacklist comment=t-pot address=141.148.155.223
@@ -224,6 +225,7 @@ add list=t-pot_blacklist comment=t-pot address=192.3.253.36
 add list=t-pot_blacklist comment=t-pot address=193.56.116.219
 add list=t-pot_blacklist comment=t-pot address=194.195.210.47
 add list=t-pot_blacklist comment=t-pot address=195.164.225.138
+add list=t-pot_blacklist comment=t-pot address=196.207.231.60
 add list=t-pot_blacklist comment=t-pot address=196.221.205.156
 add list=t-pot_blacklist comment=t-pot address=198.46.166.149
 add list=t-pot_blacklist comment=t-pot address=198.46.245.163
@@ -341,6 +343,7 @@ add list=t-pot_blacklist comment=t-pot address=45.198.224.55
 add list=t-pot_blacklist comment=t-pot address=45.33.14.197
 add list=t-pot_blacklist comment=t-pot address=45.33.14.5
 add list=t-pot_blacklist comment=t-pot address=47.117.3.109
+add list=t-pot_blacklist comment=t-pot address=47.236.165.237
 add list=t-pot_blacklist comment=t-pot address=49.235.156.121
 add list=t-pot_blacklist comment=t-pot address=49.51.33.152
 add list=t-pot_blacklist comment=t-pot address=5.77.19.194
@@ -453,6 +456,7 @@ add list=t-pot_blacklist comment=t-pot address=8.6.112.0
 add list=t-pot_blacklist comment=t-pot address=8.6.112.8
 add list=t-pot_blacklist comment=t-pot address=80.225.241.76
 add list=t-pot_blacklist comment=t-pot address=81.161.32.167
+add list=t-pot_blacklist comment=t-pot address=81.246.212.160
 add list=t-pot_blacklist comment=t-pot address=82.223.97.204
 add list=t-pot_blacklist comment=t-pot address=84.247.137.26
 add list=t-pot_blacklist comment=t-pot address=84.247.147.37
